@@ -1,0 +1,1171 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:ViewLocalizarFactura">
+      <Item value="txtNumFactura" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="30" />
+      <Item value="Request" priority="5" />
+      <Item value="postbackControl" priority="0" />
+      <Item value="oRemision" priority="5" />
+      <Item value="void" priority="4" />
+      <Item value="Remision`0" priority="1" />
+      <Item value="nuevaRemision" priority="1" />
+      <Item value="remisionServices" priority="0" />
+      <Item value="reciboServices" priority="2" />
+      <Item value="ReciboDataContracts`0" priority="7" />
+      <Item value="Recibo`0" priority="4" />
+      <Item value="oRecibo" priority="6" />
+      <Item value="try" priority="6" />
+      <Item value="ReciboDataContracts" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="this" priority="78" />
+      <Item value="string" priority="39" />
+      <Item value="numRecibo" priority="1" />
+      <Item value="double" priority="12" />
+      <Item value="bool" priority="4" />
+      <Item value="Correo" priority="2" />
+      <Item value="foreach" priority="8" />
+      <Item value="Page`0" priority="8" />
+      <Item value="using" priority="3" />
+      <Item value="Herramientas" priority="2" />
+      <Item value="MailSender`0" priority="0" />
+      <Item value="new" priority="13" />
+      <Item value="finally" priority="0" />
+      <Item value="false" priority="22" />
+      <Item value="hasAtach" priority="0" />
+      <Item value="suma" priority="5" />
+      <Item value="sumaFormatString" priority="2" />
+      <Item value="nuevoEfectivo" priority="1" />
+      <Item value="total" priority="1" />
+      <Item value="property" priority="0" />
+      <Item value="case" priority="4" />
+      <Item value="nuevaRetencion" priority="3" />
+      <Item value="nuevoDeposito" priority="4" />
+      <Item value="nuevaTransferencia" priority="4" />
+      <Item value="nuevoOtroPago" priority="5" />
+      <Item value="cheque" priority="0" />
+      <Item value="nuevoCheque" priority="4" />
+      <Item value="sumaTotalDePagos" priority="0" />
+      <Item value="switch" priority="6" />
+      <Item value="return" priority="8" />
+      <Item value="CONSTANT`0" priority="0" />
+      <Item value="break" priority="5" />
+      <Item value="IFacturaService`0" priority="1" />
+      <Item value="ParseChildrenAttribute`0" priority="1" />
+      <Item value="nuevoDescuento" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="Constants`0" priority="0" />
+      <Item value="UIUtils`0" priority="1" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="textBox" priority="0" />
+      <Item value="button" priority="1" />
+      <Item value="private" priority="34" />
+      <Item value="tab" priority="1" />
+      <Item value="TabPanel`0" priority="0" />
+      <Item value="pago" priority="5" />
+      <Item value="tipoPago" priority="1" />
+      <Item value="attribute" priority="1" />
+      <Item value="lengthAttribute" priority="0" />
+      <Item value="shortCadena" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="DataGrid`0" priority="0" />
+      <Item value="GridView`0" priority="1" />
+      <Item value="gridView" priority="0" />
+      <Item value="GridView" priority="0" />
+      <Item value="Response" priority="9" />
+      <Item value="CompensacionDePago`0" priority="0" />
+      <Item value="CompensacionDePago" priority="0" />
+      <Item value="CompensacionDePagoDataContracts`0" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="compensacionDePago" priority="5" />
+      <Item value="null" priority="14" />
+      <Item value="PanelPronto" priority="0" />
+      <Item value="Float" priority="0" />
+      <Item value="DateTime`0" priority="16" />
+      <Item value="nuevoRecibo" priority="10" />
+      <Item value="DALCompensacionDePago`0" priority="0" />
+      <Item value="dalCompensacionDePago" priority="1" />
+      <Item value="DALCompensacionDePago" priority="0" />
+      <Item value="input" priority="1" />
+      <Item value="int" priority="35" />
+      <Item value="pos" priority="3" />
+      <Item value="typeof" priority="0" />
+      <Item value="ChequeDataContracts`0" priority="1" />
+      <Item value="Type`0" priority="0" />
+      <Item value="PagoDataContracts`0" priority="3" />
+      <Item value="ICompensacionDePagoService`0" priority="0" />
+      <Item value="compensacionDePagoService" priority="0" />
+      <Item value="rows" priority="3" />
+      <Item value="else" priority="9" />
+      <Item value="cantDigitos" priority="1" />
+      <Item value="System" priority="2" />
+      <Item value="Math`0" priority="0" />
+      <Item value="out" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="oPago" priority="0" />
+      <Item value="unPago" priority="3" />
+      <Item value="oReciboPago" priority="1" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="ref" priority="0" />
+      <Item value="reciboPersistido" priority="1" />
+      <Item value="dalRecibo" priority="0" />
+      <Item value="true" priority="15" />
+      <Item value="FillRecibosDisponibles`0" priority="0" />
+      <Item value="updatePanelTxtRecibo" priority="0" />
+      <Item value="InicializarRecibo`0" priority="1" />
+      <Item value="InicializarRemision`0" priority="1" />
+      <Item value="GuardarRemision`0" priority="0" />
+      <Item value="CreaarPdf`0" priority="0" />
+      <Item value="MapPath`0" priority="0" />
+      <Item value="filePath" priority="0" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="idRemision" priority="2" />
+      <Item value="Session" priority="11" />
+      <Item value="cmbClientes" priority="4" />
+      <Item value="lista" priority="0" />
+      <Item value="dt" priority="0" />
+      <Item value="domiciliodeudor" priority="0" />
+      <Item value="cmbDeudores" priority="0" />
+      <Item value="idCliente" priority="2" />
+      <Item value="ClienteDataContracts`0" priority="3" />
+      <Item value="clienteDataContracts" priority="1" />
+      <Item value="UpdatePanelIndice" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="cmbTipoPagoRaro" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="EventArgs`0" priority="3" />
+      <Item value="e" priority="7" />
+      <Item value="sender" priority="1" />
+      <Item value="UpdateTimer" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="alertaServices" priority="0" />
+      <Item value="AlertaDataContracts`0" priority="0" />
+      <Item value="alertaDataContracts" priority="2" />
+      <Item value="clienteServices" priority="0" />
+      <Item value="destinatario" priority="1" />
+      <Item value="namespace" priority="0" />
+      <Item value="EventEntry`0" priority="0" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="nuevoEvento" priority="1" />
+      <Item value="event" priority="0" />
+      <Item value="eventArgs" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="DataSourceControl`0" priority="0" />
+      <Item value="Master" priority="1" />
+      <Item value="MasterPageFile" priority="0" />
+      <Item value="_evitarPrerenderGrillaFactura" priority="0" />
+      <Item value="logFacturaServices" priority="0" />
+      <Item value="LOG_FacturaDataContracts`0" priority="0" />
+      <Item value="logFacturaDataContracts" priority="2" />
+      <Item value="LOG_FacturaDataContracts" priority="0" />
+      <Item value="DALLogFactura`0" priority="0" />
+      <Item value="dalLogFactura" priority="2" />
+      <Item value="DALLogFactura" priority="0" />
+      <Item value="LogFactura`0" priority="1" />
+      <Item value="logFactura" priority="4" />
+      <Item value="factura" priority="5" />
+      <Item value="DALAccion`0" priority="0" />
+      <Item value="dalAccion" priority="1" />
+      <Item value="DALAccion" priority="0" />
+      <Item value="Accion`0" priority="0" />
+      <Item value="accion" priority="11" />
+      <Item value="Accion" priority="0" />
+      <Item value="ExecuteScalar`0" priority="0" />
+      <Item value="dalReciboFactura" priority="0" />
+      <Item value="DALFactura`0" priority="0" />
+      <Item value="dalFactura" priority="1" />
+      <Item value="DALFactura" priority="0" />
+      <Item value="idFactura" priority="0" />
+      <Item value="Factura`0" priority="0" />
+      <Item value="facturaPersistida" priority="0" />
+      <Item value="rowName" priority="0" />
+      <Item value="res" priority="0" />
+      <Item value="tcHistorial" priority="1" />
+      <Item value="Left" priority="0" />
+      <Item value="reporteDataContractse" priority="1" />
+      <Item value="List&lt;ReporteDataContracts&gt;" priority="0" />
+      <Item value="reporteSeleccionado" priority="0" />
+      <Item value="rdoFechas" priority="1" />
+      <Item value="rdoIdFactura" priority="1" />
+      <Item value="trHistorial" priority="0" />
+      <Item value="LogEntry" priority="1" />
+      <Item value="LogEntry`0" priority="0" />
+      <Item value="logEntry" priority="6" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="principal" priority="0" />
+      <Item value="Logger`0" priority="0" />
+      <Item value="Write`0" priority="0" />
+      <Item value="DoWriteAsync`0" priority="0" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="Closed" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="SessionState" priority="0" />
+      <Item value="HttpSessionState`0" priority="0" />
+      <Item value="cell" priority="1" />
+      <Item value="row" priority="3" />
+      <Item value="link" priority="0" />
+      <Item value="GetTableCobrador`0" priority="0" />
+      <Item value="idZona" priority="1" />
+      <Item value="EdicionReciboDataContracts`0" priority="0" />
+      <Item value="Common" priority="1" />
+      <Item value="DataContracts" priority="1" />
+      <Item value="Interfaces" priority="0" />
+      <Item value="DatosEdicionReciboDataContracts`0" priority="0" />
+      <Item value="IDatosEdicionReciboService`0" priority="0" />
+      <Item value="numRemision" priority="1" />
+      <Item value="recibos" priority="0" />
+      <Item value="reciboDataContract" priority="4" />
+      <Item value="recibo" priority="0" />
+      <Item value="reciboPagosServices" priority="0" />
+      <Item value="ListItem`0" priority="0" />
+      <Item value="ListItem" priority="4" />
+      <Item value="recibosObtenidos" priority="0" />
+      <Item value="btnRefreshCmbDeudores" priority="0" />
+      <Item value="reciboPagoDataContractse" priority="0" />
+      <Item value="pagoDataContracts" priority="0" />
+      <Item value="pagoDataContract" priority="15" />
+      <Item value="inicio" priority="0" />
+      <Item value="retencion" priority="1" />
+      <Item value="registros" priority="1" />
+      <Item value="RetencionDataContracts`0" priority="1" />
+      <Item value="retencionDataContracts" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="idRecibo" priority="0" />
+      <Item value="efectivoDataContracts" priority="2" />
+      <Item value="depositoDataContracts" priority="5" />
+      <Item value="transferenciaDataContracts" priority="2" />
+      <Item value="otroPagoDataContracts" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="ReciboFacturaDataContracts`0" priority="1" />
+      <Item value="CheckBox`0" priority="0" />
+      <Item value="checked" priority="1" />
+      <Item value="dataTable2" priority="0" />
+      <Item value="idFacturas" priority="3" />
+      <Item value="DataRow`0" priority="0" />
+      <Item value="facturasTildadas" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="chk" priority="0" />
+      <Item value="CargarGrillaFacturasConPersistidas`0" priority="1" />
+      <Item value="ReCalcularSuma`0" priority="0" />
+      <Item value="List&lt;ProvinciaDataContracts&gt;" priority="0" />
+      <Item value="List&lt;DepartamentoDataContracts&gt;" priority="0" />
+      <Item value="List&lt;LocalidadDataContracts&gt;" priority="0" />
+      <Item value="deudor" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="DataTable`0" priority="0" />
+      <Item value="ActiveDirectoryMembershipProvider`0" priority="0" />
+      <Item value="BusquedaDataContracts`0" priority="3" />
+      <Item value="busquedaDataContracts" priority="13" />
+      <Item value="BusquedaDataContracts" priority="0" />
+      <Item value="GetDataTableDeudoresToRestoreFilters`0" priority="0" />
+      <Item value="resultadoObtenidos" priority="1" />
+      <Item value="Server" priority="1" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="fechaProceso" priority="1" />
+      <Item value="oCheque" priority="0" />
+      <Item value="oRetencion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Form" priority="6" />
+      <Item value="Params" priority="1" />
+      <Item value="UserHostName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewRemisionDeValores">
+      <Item value="hdPostbackControl" priority="0" />
+      <Item value="txtRecibo" priority="5" />
+      <Item value="UpdatePanelSumasPagos" priority="0" />
+      <Item value="UpdatePanelResultadosDiferenciaLocal" priority="0" />
+      <Item value="txtDiferenciaPe" priority="2" />
+      <Item value="txtSumaFacturas" priority="3" />
+      <Item value="txtPagos" priority="0" />
+      <Item value="chkPesificar" priority="0" />
+      <Item value="chkPestreificar" priority="3" />
+      <Item value="UpdatePanelResultados" priority="1" />
+      <Item value="txtImporteEfectivo" priority="3" />
+      <Item value="txtFechaPagoEfectivo" priority="1" />
+      <Item value="ActualizarTotalesEnPantalla`0" priority="1" />
+      <Item value="ActualizarGrillaCargaPagosYActualizaTotales`0" priority="0" />
+      <Item value="txtImporteRetencion" priority="0" />
+      <Item value="txtNumFactura" priority="0" />
+      <Item value="txtNumeroRetencion" priority="0" />
+      <Item value="cmbDescuentos" priority="1" />
+      <Item value="txtFechaDeposito" priority="0" />
+      <Item value="txtImporteDeposito" priority="0" />
+      <Item value="txtNumComprob" priority="0" />
+      <Item value="cmbCuentasClientes" priority="1" />
+      <Item value="txtSucursalDeposito" priority="0" />
+      <Item value="txtFechaTransferencia" priority="0" />
+      <Item value="txtImporteTransferencia" priority="0" />
+      <Item value="cmbCuentaCredito" priority="1" />
+      <Item value="txtNumComprobTrans" priority="0" />
+      <Item value="txtCuentaDebito" priority="0" />
+      <Item value="txtNumCompRaro" priority="0" />
+      <Item value="txtCuitEmisor" priority="1" />
+      <Item value="txtCuenta" priority="1" />
+      <Item value="txtCp" priority="1" />
+      <Item value="GetIdMoneda`0" priority="1" />
+      <Item value="txtCambio" priority="1" />
+      <Item value="UpdatePanelIndice" priority="4" />
+      <Item value="cmbDeudores" priority="1" />
+      <Item value="btnNuevaRemisionTemporal" priority="1" />
+      <Item value="UpdatePanelProntoPago" priority="0" />
+      <Item value="panelProntoPago" priority="0" />
+      <Item value="updatePanelGvFacturas" priority="0" />
+      <Item value="txtImporte" priority="0" />
+      <Item value="cmbRetenciones" priority="0" />
+      <Item value="cmbTipoPagoRaro" priority="0" />
+      <Item value="TabContainer1" priority="2" />
+      <Item value="HiddenFieldPagosCargados" priority="5" />
+      <Item value="cmbRecibosDisponibles" priority="7" />
+      <Item value="btnGuardarRecibo" priority="0" />
+      <Item value="panelGeneralCuerpoPagina" priority="3" />
+      <Item value="InicializarRemisionPorPostback`0" priority="0" />
+      <Item value="lblRemisionEnUso" priority="3" />
+      <Item value="updatePanelTxtRecibo" priority="1" />
+      <Item value="cmbClientes" priority="2" />
+      <Item value="updateRecibosDisponibles" priority="0" />
+      <Item value="cmbRecibosDisponibles_TextChanged`0" priority="0" />
+      <Item value="txtFechaVencimiento" priority="1" />
+      <Item value="chkCP" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.HiddenField">
+      <Item value="Value" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.TabContainer">
+      <Item value="ActiveTabIndex" priority="0" />
+      <Item value="ActiveTab" priority="0" />
+      <Item value="Tabs" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Remision">
+      <Item value="NumeroRemision" priority="1" />
+      <Item value="Compensacion" priority="1" />
+      <Item value="AnalistaGenerador" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALRemision">
+      <Item value="UpdateReciboEnRemision`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.RemisionAdmin">
+      <Item value="UpdateReciboEnRemision`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IRemisionService">
+      <Item value="UpdateReciboEnRemision`0" priority="0" />
+      <Item value="GetRemision`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IReciboService">
+      <Item value="GetRecibo`0" priority="0" />
+      <Item value="Load`0" priority="1" />
+      <Item value="GetAllRecibosByIdCliente`0" priority="0" />
+      <Item value="GetAllRecibosByIdClienteSinUsar`0" priority="1" />
+      <Item value="GetReciboByNumReciboIdDeudorIdCliente`0" priority="0" />
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.DbType">
+      <Item value="String" priority="1" />
+      <Item value="Double" priority="4" />
+      <Item value="Xml" priority="0" />
+      <Item value="Int32" priority="4" />
+      <Item value="VarNumeric" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="DateTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Recibo">
+      <Item value="Numero" priority="1" />
+      <Item value="CompensacionDePago" priority="2" />
+      <Item value="TipoDeCambio" priority="1" />
+      <Item value="SAP" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Deudor" priority="0" />
+      <Item value="Cliente" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.RemisionDataContracts">
+      <Item value="ListaDeRecibos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ReciboDataContracts">
+      <Item value="Numero" priority="2" />
+      <Item value="_numero" priority="0" />
+      <Item value="CompensacionDePago" priority="1" />
+      <Item value="TipoDeCambio" priority="1" />
+      <Item value="UsadoRemision" priority="1" />
+      <Item value="Id" priority="2" />
+      <Item value="Cobrador" priority="1" />
+      <Item value="FechaCarga" priority="0" />
+      <Item value="_cliente" priority="0" />
+      <Item value="ListadoDeFacturasACancelar" priority="0" />
+      <Item value="ListadoDePagosIngresados" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.UpdatePanel">
+      <Item value="Update`0" priority="20" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="40" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="Enabled" priority="2" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="20" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="10" />
+      <Item value="TryParse`0" priority="0" />
+      <Item value="PositiveInfinity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="3" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="To" priority="1" />
+      <Item value="CC" priority="1" />
+      <Item value="Bcc" priority="3" />
+      <Item value="Attachments" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailAddressCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Herramientas.MailSender">
+      <Item value="Send`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="Response" priority="1" />
+      <Item value="Request" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="7" />
+      <Item value="Split`0" priority="3" />
+      <Item value="IndexOf`0" priority="2" />
+      <Item value="Contains`0" priority="3" />
+      <Item value="StartsWith`0" priority="0" />
+      <Item value="Substring`0" priority="1" />
+      <Item value="Length" priority="5" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="PadLeft`0" priority="0" />
+      <Item value="Replace`0" priority="1" />
+      <Item value="ToUpper`0" priority="0" />
+      <Item value="EndsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CheckBox">
+      <Item value="Checked" priority="7" />
+      <Item value="Enabled" priority="1" />
+      <Item value="Attributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.EfectivoDataContracts">
+      <Item value="Importe" priority="3" />
+      <Item value="FechaPago" priority="2" />
+      <Item value="Monto" priority="0" />
+      <Item value="TotalPesificado" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="10" />
+      <Item value="Date" priority="1" />
+      <Item value="ToShortDateString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="4" />
+      <Item value="Now" priority="6" />
+      <Item value="MaxValue" priority="0" />
+      <Item value="MinValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="7" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.RetencionDataContracts">
+      <Item value="Importe" priority="1" />
+      <Item value="Numero" priority="0" />
+      <Item value="IdRemision" priority="0" />
+      <Item value="IdSubTipoRetencion" priority="1" />
+      <Item value="numero" priority="1" />
+      <Item value="NumeroRetencion" priority="1" />
+      <Item value="IdRetencion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="SelectedIndex" priority="8" />
+      <Item value="Focus`0" priority="5" />
+      <Item value="SelectedItem" priority="5" />
+      <Item value="Items" priority="12" />
+      <Item value="DataSource" priority="0" />
+      <Item value="SelectedValue" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="SelectedIndexChanged" priority="0" />
+      <Item value="ToolTip" priority="0" />
+      <Item value="Enabled" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.DepositoDataContracts">
+      <Item value="FechaDeposito" priority="1" />
+      <Item value="Importe" priority="3" />
+      <Item value="NumComprobante" priority="2" />
+      <Item value="Sucursal" priority="1" />
+      <Item value="Cuenta" priority="0" />
+      <Item value="TotalPesificado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.TransferenciaDataContracts">
+      <Item value="FechaDeposito" priority="1" />
+      <Item value="Importe" priority="1" />
+      <Item value="NumComprobante" priority="1" />
+      <Item value="CuentaDebito" priority="1" />
+      <Item value="CuentaCredito" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.OtroPagoDataContracts">
+      <Item value="FechaPago" priority="1" />
+      <Item value="Importe" priority="1" />
+      <Item value="NumComprobante" priority="0" />
+      <Item value="IdTipoPago" priority="1" />
+      <Item value="IdTipoPagoRaro" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ChequeDataContracts">
+      <Item value="Cuit" priority="1" />
+      <Item value="Cuenta" priority="1" />
+      <Item value="Cp" priority="1" />
+      <Item value="IdMoneda" priority="0" />
+      <Item value="Vencimiento" priority="1" />
+      <Item value="TotalPesificado" priority="0" />
+      <Item value="Importe" priority="0" />
+      <Item value="Numero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CONSTANT">
+      <Item value="PESOS" priority="0" />
+      <Item value="DOLARES" priority="0" />
+      <Item value="EUROS" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Constants">
+      <Item value="DEFAULT_CHANGE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Focus`0" priority="0" />
+      <Item value="Attributes" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Panel">
+      <Item value="Visible" priority="0" />
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.PagoDataContracts">
+      <Item value="IdMoneda" priority="2" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="FormaPago" priority="1" />
+      <Item value="TotalPesificado" priority="3" />
+      <Item value="Id" priority="0" />
+      <Item value="Importe" priority="0" />
+      <Item value="Numero" priority="1" />
+      <Item value="Vencimiento" priority="0" />
+      <Item value="Emision" priority="0" />
+      <Item value="Banco" priority="0" />
+      <Item value="Sucursal" priority="0" />
+      <Item value="Cuit" priority="0" />
+      <Item value="Cuenta" priority="0" />
+      <Item value="Cp" priority="0" />
+      <Item value="NumeroRetencion" priority="2" />
+      <Item value="FechaPago" priority="0" />
+      <Item value="IdRetencion" priority="0" />
+      <Item value="IdPago" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Herramientas.UIUtils">
+      <Item value="GetPosCol`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCell">
+      <Item value="Enabled" priority="1" />
+      <Item value="HorizontalAlign" priority="0" />
+      <Item value="EnableViewState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRow">
+      <Item value="Cells" priority="0" />
+      <Item value="DataItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.AttributeCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="18" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.TabPanel">
+      <Item value="Visible" priority="0" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.TabPanelCollection">
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Visible" priority="0" />
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Redirect`0" priority="6" />
+      <Item value="ContentType" priority="0" />
+      <Item value="WriteFile`0" priority="1" />
+      <Item value="End`0" priority="0" />
+      <Item value="BinaryWrite`0" priority="0" />
+      <Item value="TransmitFile`0" priority="0" />
+      <Item value="Flush`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.CompensacionDePago">
+      <Item value="idCompensacion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.CompensacionDePagoDataContracts">
+      <Item value="FechaRealizacionCompensacion" priority="0" />
+      <Item value="IdCliente" priority="0" />
+      <Item value="IdCompensacion" priority="0" />
+      <Item value="IdDeudor" priority="0" />
+      <Item value="Monto" priority="1" />
+      <Item value="ReciboRelacionado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALCompensacionDePago">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="GetValues`0" priority="0" />
+      <Item value="AllKeys" priority="1" />
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@iTextSharp.text.BaseColor">
+      <Item value="WHITE" priority="6" />
+      <Item value="BLUE" priority="1" />
+      <Item value="BLACK" priority="2" />
+      <Item value="LIGHT_GRAY" priority="1" />
+      <Item value="RED" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@iTextSharp.text.Font+FontFamily">
+      <Item value="TIMES_ROMAN" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Efectivo">
+      <Item value="Importe" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.IDataReader">
+      <Item value="GetString`0" priority="2" />
+      <Item value="GetDouble`0" priority="2" />
+      <Item value="GetInt32`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Clear`0" priority="9" />
+      <Item value="Count" priority="2" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.FormaPagoDataContracts">
+      <Item value="Descripcion" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewProntoPago">
+      <Item value="txtPorcentaje" priority="1" />
+      <Item value="IsValid" priority="0" />
+      <Item value="cmbClientes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.CompensacionDePagoAdmin">
+      <Item value="GetCompensacionDePagoPorNumeroDeRecibo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.ICompensacionDePagoService">
+      <Item value="GetCompensacionDePagoPorNumeroDeRecibo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRowCollection">
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="DivRem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.ReciboPago">
+      <Item value="Moneda" priority="1" />
+      <Item value="IdMoneda" priority="2" />
+      <Item value="TotalPesificado" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Pago">
+      <Item value="IdMoneda" priority="0" />
+      <Item value="TotalPesificado" priority="0" />
+      <Item value="numeroRetencion" priority="1" />
+      <Item value="IdTipoPago" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ReciboPagoDataContracts">
+      <Item value="IdMoneda" priority="0" />
+      <Item value="TotalPesificado" priority="0" />
+      <Item value="FormaPago" priority="0" />
+      <Item value="IdPago" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.DescuentoDataContracts">
+      <Item value="Importe" priority="0" />
+      <Item value="Concepto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewGestionCobradores">
+      <Item value="cmbClientes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="Text" priority="5" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="1" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Find`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALRecibo">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EvaWebControls.SecureButton">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="ApplicationInstance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpApplication">
+      <Item value="CompleteRequest`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpCookieCollection">
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.SessionState.HttpSessionState">
+      <Item value="RemoveAll`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewGestionDeDeudores">
+      <Item value="hiddenFieldError" priority="0" />
+      <Item value="radioDeudor" priority="0" />
+      <Item value="rdoDescripcion" priority="0" />
+      <Item value="rdoIdDeudor" priority="0" />
+      <Item value="radioCliente" priority="1" />
+      <Item value="radioAnalista" priority="0" />
+      <Item value="txtFechaHasta" priority="0" />
+      <Item value="txtDescDeudor" priority="0" />
+      <Item value="GvResultados" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.ComboBox">
+      <Item value="SelectedItem" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectedIndexChanged" priority="0" />
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MasterPage">
+      <Item value="lblAlerta" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="updatePanelMarquesina" priority="1" />
+      <Item value="Trace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IAlertaService">
+      <Item value="GetAlerta`0" priority="0" />
+      <Item value="GetAllAlertas`0" priority="0" />
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.AlertaDataContracts">
+      <Item value="AlertaDes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ClienteDataContracts">
+      <Item value="EMAIL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IClienteService">
+      <Item value="Load`0" priority="0" />
+      <Item value="GetCliente`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Boolean">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.UI.Page">
+      <Item value="postEventSourceID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.EventArgs">
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.MasterPage">
+      <Item value="FindControl`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.ILOG_FacturaService">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.LOG_FacturaDataContracts">
+      <Item value="FechaActividad" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALLogFactura">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.LogFactura">
+      <Item value="FechaActividad" priority="0" />
+      <Item value="IdFactura" priority="0" />
+      <Item value="Usuario" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.ReciboFactura">
+      <Item value="IdFactura" priority="1" />
+      <Item value="Saldo" priority="0" />
+      <Item value="ImporteAImputar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Analista">
+      <Item value="Nombre" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Accion">
+      <Item value="Usuario" priority="0" />
+      <Item value="FechaAccion" priority="0" />
+      <Item value="IdEstado" priority="0" />
+      <Item value="Observacion" priority="0" />
+      <Item value="IdFactura" priority="0" />
+      <Item value="IdDeudor" priority="0" />
+      <Item value="IdCliente" priority="0" />
+      <Item value="FechaVencimiento" priority="1" />
+      <Item value="ProximaGestion" priority="0" />
+      <Item value="IdAccion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Deudor">
+      <Item value="IdDeudor" priority="0" />
+      <Item value="cliente" priority="1" />
+      <Item value="Cliente" priority="0" />
+      <Item value="IdDomicilioDeudor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Cliente">
+      <Item value="IdCliente" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALAccion">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALFactura">
+      <Item value="Load`0" priority="0" />
+      <Item value="GetAllFacturasPorIdDeudorSinFiltroDeEstado`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Factura">
+      <Item value="IdEstadoFactura" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewPopUpHitoFactura">
+      <Item value="chkEnviarEmail" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ViewReportes">
+      <Item value="reportesInternos" priority="1" />
+      <Item value="ddlListadoDeReportes" priority="0" />
+      <Item value="ddlListadoDeReportesExsternos" priority="2" />
+      <Item value="reportesExternos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RadioButton">
+      <Item value="Checked" priority="9" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Reporte">
+      <Item value="Ubicacion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ReporteDataContracts">
+      <Item value="Ubicacion" priority="0" />
+      <Item value="UrlComun" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewMailEstadoCuenta">
+      <Item value="txtFechaDesde" priority="0" />
+      <Item value="txtFechaHasta" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableRow">
+      <Item value="Style" priority="0" />
+      <Item value="EnableViewState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Gobbi.CoreServices.Logging.Logger">
+      <Item value="Write`0" priority="0" />
+      <Item value="WriteSync`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gobbi.CoreServices.Logging.LogEntry">
+      <Item value="MachineName" priority="0" />
+      <Item value="TimeStamp" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="UserName" priority="0" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gobbi.CoreServices.Security.Principal.GobbiPrincipal">
+      <Item value="Identity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="State" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.ConnectionState">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.LinkButton">
+      <Item value="EnableViewState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewAltaDeudor">
+      <Item value="tblHorariosReclamo" priority="0" />
+      <Item value="updatePanelDatosPrincipales" priority="0" />
+      <Item value="cmbPais" priority="0" />
+      <Item value="cmbProvincia" priority="1" />
+      <Item value="cmbLocalidad" priority="1" />
+      <Item value="cmbDepartamento" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Table">
+      <Item value="EnableViewState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.AttachmentCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALDeudor">
+      <Item value="GetAllLocalidadPorCriterioIdZona`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.DeudorAdmin">
+      <Item value="GetAllLocalidadPorCriterioIdZona`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IDeudorService">
+      <Item value="GetAllLocalidadPorCriterioIdZona`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewHojaDeRutaDetalle">
+      <Item value="cmbZona" priority="2" />
+      <Item value="listBoxCobradores" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListBox">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataTextField" priority="0" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.ICobradorService">
+      <Item value="GetAllCobradorPorZonaAsignada`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.DatosEdicionReciboAdmin">
+      <Item value="GetAllDatosEdicionRecibosPorNumeroRemision`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IDatosEdicionReciboService">
+      <Item value="GetAllDatosEdicionRecibosPorNumeroRecibo`0" priority="0" />
+      <Item value="GetAllDatosEdicionRecibosPorNumeroRemision`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewLocalizarRecibo">
+      <Item value="txtNumRecibo" priority="0" />
+      <Item value="gvResultados" priority="2" />
+      <Item value="txtNumRemision" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EvaWebControls.XGridView">
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind`0" priority="0" />
+      <Item value="PageIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.DatosEdicionRecibo">
+      <Item value="IdDeudor" priority="0" />
+      <Item value="NombreDeudor" priority="0" />
+      <Item value="IdCliente" priority="0" />
+      <Item value="NombreCliente" priority="0" />
+      <Item value="CuitCliente" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IReciboFacturaService">
+      <Item value="GetAllReciboFacturasByIdRecibo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IReciboPagoService">
+      <Item value="GetAllReciboPagosByIdRecibo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IChequeService">
+      <Item value="GetCheque`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IRetencionService">
+      <Item value="GetRetencion`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IEfectivoService">
+      <Item value="GetEfectivo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IDepositoService">
+      <Item value="GetDeposito`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.ITransferenciaService">
+      <Item value="GetTransferencia`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IOtroPagoService">
+      <Item value="GetOtroPago`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IDescuentoService">
+      <Item value="GetDescuento`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewRemisionDeValoresEdicion">
+      <Item value="cmbRecibosDisponibles" priority="1" />
+      <Item value="cmbClientes" priority="0" />
+      <Item value="cmbDeudores" priority="0" />
+      <Item value="btnRemisionEnUso" priority="0" />
+      <Item value="chkMail" priority="0" />
+      <Item value="AgregarPago`0" priority="0" />
+      <Item value="HiddenFieldPagosCargados" priority="0" />
+      <Item value="lblRemisionEnUso" priority="0" />
+      <Item value="ddlSubTipo" priority="0" />
+      <Item value="txtNumeroRetencion" priority="0" />
+      <Item value="txtFechaRetencion" priority="0" />
+      <Item value="GvResultadosFacturas" priority="0" />
+      <Item value="GetDataTableFacturasPorDeudorSinFiltroDeEstado`0" priority="0" />
+      <Item value="_listaFacturasSeleccionadas" priority="2" />
+      <Item value="updateRecibosDisponibles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ImageButton">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.FacturaDataContracts">
+      <Item value="IdFactura" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.Retencion">
+      <Item value="IdSubTipoRetencion" priority="1" />
+      <Item value="NumeroRetencion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.ReciboFacturaDataContracts">
+      <Item value="IdFactura" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.FacturaAdmin">
+      <Item value="GetAllFacturasPorIdDeudorSinFiltroDeEstado`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IFacturaService">
+      <Item value="GetAllFacturasPorIdDeudorSinFiltroDeEstado`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Control">
+      <Item value="ClientID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.OtroPago">
+      <Item value="idTipoPagoRaro" priority="1" />
+      <Item value="IdTipoPagoRaro" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALDomicilioDeudor">
+      <Item value="InsertNuevo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.DomicilioDeudorAdmin">
+      <Item value="InsertNuevo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IDomicilioDeudorService">
+      <Item value="InsertNuevo`0" priority="1" />
+      <Item value="GetDomicilioDeudor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.DomicilioDeudorDataContracts">
+      <Item value="IdDomicilioAlternativo" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.DeudorDataContracts">
+      <Item value="Domicilio_Deudor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewEditEventArgs">
+      <Item value="NewEditIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.BusquedaDataContracts">
+      <Item value="RadioDescription" priority="1" />
+      <Item value="Results" priority="3" />
+      <Item value="RadioAVencer" priority="1" />
+      <Item value="RadioAnalista" priority="1" />
+      <Item value="RadioDeudor" priority="1" />
+      <Item value="RadioCliente" priority="0" />
+      <Item value="Parameters" priority="4" />
+      <Item value="NumPage" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="TransferRequest`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesDAL.DALInterfazFactura">
+      <Item value="GetAllInterfazFacturasByClienteFechaProceso`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EntidadesAdmin.InterfazFacturaAdmin">
+      <Item value="GetAllInterfazFacturasByClienteFechaProceso`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Interfaces.IInterfazFacturaService">
+      <Item value="GetAllInterfazFacturasByClienteFechaProceso`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewDetalleUltimaImportacionCliente">
+      <Item value="fechaProceso" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewCommandEventArgs">
+      <Item value="CommandName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FBE98852-409A-4AAC-A586-20132DAE2DC6/f:DALInterfazFactura.cs" caret="12686" fromTop="6" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewResultadosImportacionMaster.aspx.cs" caret="5044" fromTop="17" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewDetalleUltimaImportacionCliente.aspx.cs" caret="4370" fromTop="16" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGestionCobradores.aspx.cs" caret="3607" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionEspecialEnExcel.aspx.cs" caret="3237" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx" caret="15226" fromTop="8" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="4188" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="6196" fromTop="13" />
+      <File id="B1B4FE54-0AF5-4E46-B1A2-23EE0C157D90/f:ReciboService.cs" caret="6862" fromTop="14" />
+      <File id="5990650C-DC53-4405-85E3-A33BEA28E4EC/f:ReciboAdmin.cs" caret="5811" fromTop="18" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="2431" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:MappingObjectsClientSide/f:DTOObjects1.js.exclude" caret="4653" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:MappingObjectsClientSide/f:DTOObjects2.js" caret="8374" fromTop="16" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:TextFile.txt" caret="108965" fromTop="12" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewEdicionRecibo.aspx.cs" caret="67324" fromTop="22" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewEdicionRecibo.aspx" caret="104166" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx" caret="84944" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewPopUpRecibosCargados.aspx" caret="779" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValoresEdicion.aspx" caret="16310" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:Connection.config" caret="916" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValoresEdicion.aspx.cs" caret="82795" fromTop="15" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:GobbiPage.cs" caret="2518" fromTop="24" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:MasterPage.master.cs" caret="1405" fromTop="20" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx.cs" caret="72269" fromTop="19" />
+      <File id="B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA/f:TransparentProxy.cs" caret="3317" fromTop="14" />
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/d:Mapping/f:Entity.cs" caret="552" fromTop="13" />
+      <File id="B1B4FE54-0AF5-4E46-B1A2-23EE0C157D90/f:RemisionService.cs" caret="5865" fromTop="15" />
+      <File id="FBE98852-409A-4AAC-A586-20132DAE2DC6/f:DALRecibo.cs" caret="8545" fromTop="13" />
+      <File id="FBE98852-409A-4AAC-A586-20132DAE2DC6/f:DALRemision.cs" caret="33979" fromTop="12" />
+      <File id="5990650C-DC53-4405-85E3-A33BEA28E4EC/f:RemisionAdmin.cs" caret="5420" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx" caret="15644" fromTop="12" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="6284" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="6673" fromTop="21" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="8268" fromTop="23" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="6950" fromTop="18" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarRecibo.aspx.cs" caret="7581" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="4216" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="4992" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="5648" fromTop="28" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="4992" fromTop="12" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:PdfCreator.cs" caret="4701" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="5230" fromTop="6" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="14307" fromTop="14" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="17338" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="16490" fromTop="9" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="18083" fromTop="19" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="18862" fromTop="24" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="19655" fromTop="18" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGeneracionPdf.aspx.cs" caret="15755" fromTop="20" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx.cs" caret="844" fromTop="12" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:MappingObjectsClientSide/f:DTOObjects1.js.exclude" caret="5348" fromTop="18" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:MappingObjectsClientSide/f:DTOObjects2.js" caret="9170" fromTop="25" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx" caret="114681" fromTop="4" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewPopUpRecibosCargados.aspx" caret="7016" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:Connection.config" caret="510" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValoresEdicion.aspx" caret="15707" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:Connection.config" caret="504" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValoresEdicion.aspx.cs" caret="85691" fromTop="19" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValoresEdicion.aspx.cs" caret="83105" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

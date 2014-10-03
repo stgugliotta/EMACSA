@@ -1,0 +1,52 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Debug\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Debug\CoreServices.xml
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Debug\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Debug\Entidades.pdb

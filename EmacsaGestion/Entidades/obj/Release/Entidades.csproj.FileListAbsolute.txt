@@ -1,0 +1,60 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\Entidades\obj\Release\Entidades.pdb

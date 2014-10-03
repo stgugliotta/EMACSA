@@ -1,0 +1,32 @@
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\Services.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\obj\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\Services\obj\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\obj\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\Services\obj\Release\Services.pdb
+C:\Gaston\Emacsa\FrameWork\Services\bin\Release\Services.xml
+C:\Gaston\Emacsa\FrameWork\Services\bin\Release\Services.dll
+C:\Gaston\Emacsa\FrameWork\Services\bin\Release\Services.pdb
+C:\Gaston\Emacsa\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\FrameWork\Services\obj\Release\Services.dll
+C:\Gaston\Emacsa\FrameWork\Services\obj\Release\Services.pdb

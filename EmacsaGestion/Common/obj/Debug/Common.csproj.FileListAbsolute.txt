@@ -1,0 +1,75 @@
+D:\Netares\EmacsaSVN\Gobbi\Common\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Common\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Debug\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Debug\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Debug\CoreServices.xml
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Debug\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Debug\Common.pdb

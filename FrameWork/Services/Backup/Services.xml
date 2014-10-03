@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<services>
+	<service name="EjService" type="ar.com.telecom.eva.appservices.EjMod.implementation.EjService,Implementation" descriptor ="">
+		<endpoint name="IEjServiceA" type ="" descriptor =""/>
+	    <endpoint name="IEjServiceB" type="" descriptor=""/>
+		<endpoint name="ar.com.telecom.eva.appservices.EjMod.common.interfaces.IEjService" type ="" descriptor =""/>
+	</service>
+
+  <service name="EjServiceWeb" type="ar.com.telecom.eva.appservices.EjMod.implementation.EjServiceWeb,Implementation" descriptor ="">
+    <endpoint name="IEjServiceA" type ="" descriptor =""/>
+    <endpoint name="IEjServiceB" type="" descriptor=""/>
+    <endpoint name="ar.com.telecom.eva.appservices.EjMod.common.interfaces.IEjService" type ="" descriptor =""/>
+  </service>
+
+  <service name="Ej2Service" type="ar.com.telecom.eva.appservices.EjMod.implementation.EjService,Implementation" descriptor ="">
+		<endpoint name="IEjServiceD" type ="" descriptor =""/>
+		<endpoint name="IEjServiceE" type="" descriptor=""/>
+		<endpoint name="IEjServiceF" type ="" descriptor =""/>
+	</service>
+
+	<service name="Ej3Service" type="ar.com.telecom.eva.appservices.EjMod.implementation.EjService,Implementation" descriptor ="">
+		<endpoint name="IEjServiceG" type ="" descriptor =""/>
+	</service>
+
+	<service name="OtroService" type="ar.com.telecom.eva.appservices.EjMod.implementation.OtroService,Implementation" descriptor ="">
+		<endpoint name="IEjServiceH" type ="" descriptor =""/>
+		<endpoint name="ar.com.telecom.eva.appservices.EjMod.common.interfaces.IEjService" type ="" descriptor =""/>
+	</service>
+</services>

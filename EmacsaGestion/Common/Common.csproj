@@ -1,0 +1,187 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5FCAAD62-F987-4B50-BCE3-1F1916C4FD99}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <!-- agregado por GO para validar con StyleCop-->
+    <StyleCopTreatErrorsAsWarnings>false</StyleCopTreatErrorsAsWarnings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataContracts\AccionDataContracts.cs" />
+    <Compile Include="DataContracts\AgendaDataContracts.cs" />
+    <Compile Include="DataContracts\AlertaDataContracts.cs" />
+    <Compile Include="DataContracts\AnalistaDataContracts.cs" />
+    <Compile Include="DataContracts\BancoDataContracts.cs" />
+    <Compile Include="DataContracts\BusquedaDataContracts.cs" />
+    <Compile Include="DataContracts\ChequeDataContracts.cs" />
+    <Compile Include="DataContracts\ClienteCuentaDataContracts.cs" />
+    <Compile Include="DataContracts\ClienteDataContracts.cs" />
+    <Compile Include="DataContracts\ClienteDeudorDataContracts.cs" />
+    <Compile Include="DataContracts\CompensacionDePagoDataContracts.cs" />
+    <Compile Include="DataContracts\ConfigurationDataContracts.cs" />
+    <Compile Include="DataContracts\CobradorDataContracts.cs" />
+    <Compile Include="DataContracts\CONSTANT.cs" />
+    <Compile Include="DataContracts\ControlRemisionConcurrenciaDataContracts.cs" />
+    <Compile Include="DataContracts\CambioDataContracts.cs" />
+    <Compile Include="DataContracts\DeudorLivianoDataContracts.cs" />
+    <Compile Include="DataContracts\HojaDataContracts.cs" />
+    <Compile Include="DataContracts\DomicilioDeudorAlternativoParaGrillaDataContracts.cs" />
+    <Compile Include="DataContracts\MailDataContracts.cs" />
+    <Compile Include="DataContracts\FacturaDataContracts.cs" />
+    <Compile Include="DataContracts\DeudorDiaReclamoAlternativoDataContract.cs" />
+    <Compile Include="DataContracts\DomicilioDeudorAlternativoDataContracts.cs" />
+    <Compile Include="DataContracts\DeudorDiaCobroDataContract.cs" />
+    <Compile Include="DataContracts\DeudorDiaReclamoDataContract.cs" />
+    <Compile Include="DataContracts\DiasDataContracts.cs" />
+    <Compile Include="DataContracts\EdicionReciboDataContracts.cs" />
+    <Compile Include="DataContracts\HojaViewDataContracts.cs" />
+    <Compile Include="DataContracts\DeudorHojaDeRutaDataContracts.cs" />
+    <Compile Include="DataContracts\EstadoHojaDataContracts.cs" />
+    <Compile Include="DataContracts\HojaDeRutaExcelDataContracts.cs" />
+    <Compile Include="DataContracts\ItemHojaDataContracts.cs" />
+    <Compile Include="DataContracts\ItemHojaDSGDataContracts.cs" />
+    <Compile Include="DataContracts\ReciboPagoDataContracts.cs" />
+    <Compile Include="DataContracts\ZonaDataContracts.cs" />
+    <Compile Include="DataContracts\DepartamentoDataContracts.cs" />
+    <Compile Include="DataContracts\DomicilioDeudorDataContracts.cs" />
+    <Compile Include="DataContracts\DepositoDataContracts.cs" />
+    <Compile Include="DataContracts\DescuentoDataContracts.cs" />
+    <Compile Include="DataContracts\EfectivoDataContracts.cs" />
+    <Compile Include="DataContracts\InterfazFacturaDataContracts.cs" />
+    <Compile Include="DataContracts\FacturaHistorialDeudorDataContracts.cs" />
+    <Compile Include="DataContracts\FormaPagoDataContracts.cs" />
+    <Compile Include="DataContracts\ImportacionFacturaDataContracts.cs" />
+    <Compile Include="DataContracts\DeudorDataContracts.cs" />
+    <Compile Include="DataContracts\IPago.cs" />
+    <Compile Include="DataContracts\LocalidadDataContracts.cs" />
+    <Compile Include="DataContracts\LOG_FacturaDataContracts.cs" />
+    <Compile Include="DataContracts\OtroPagoDataContracts.cs" />
+    <Compile Include="DataContracts\PagoDataContracts.cs" />
+    <Compile Include="DataContracts\MotoqueroDataContracts.cs" />
+    <Compile Include="DataContracts\PaisDataContracts.cs" />
+    <Compile Include="DataContracts\ProntoPagoDataContracts.cs" />
+    <Compile Include="DataContracts\ProvinciaDataContracts.cs" />
+    <Compile Include="DataContracts\ReciboDataContracts.cs" />
+    <Compile Include="DataContracts\ReciboFacturaDataContracts.cs" />
+    <Compile Include="DataContracts\RemisionDataContracts.cs" />
+    <Compile Include="DataContracts\RemisionDescuentoDataContracts.cs" />
+    <Compile Include="DataContracts\ReporteDataContracts.cs" />
+    <Compile Include="DataContracts\RetencionDataContracts.cs" />
+    <Compile Include="DataContracts\RetencionMTRDataContracts.cs" />
+    <Compile Include="DataContracts\SubTipoRetencionMTRDataContracts.cs" />
+    <Compile Include="DataContracts\TipoPagoRaroDataContracts.cs" />
+    <Compile Include="DataContracts\TransferenciaDataContracts.cs" />
+    <Compile Include="Interfaces\IDeudorLivianoService.cs" />
+    <Compile Include="Interfaces\ICambioService.cs" />
+    <Compile Include="Interfaces\IBancoService.cs" />
+    <Compile Include="Interfaces\IMailService.cs" />
+    <Compile Include="Interfaces\IFacturaHistorialDeudor.cs" />
+    <Compile Include="Interfaces\IDeudorDiaReclamoAlternativoService.cs" />
+    <Compile Include="Interfaces\IDomicilioDeudorAlternativoService.cs" />
+    <Compile Include="Interfaces\IAlertaService.cs" />
+    <Compile Include="Interfaces\IClienteDeudorService.cs" />
+    <Compile Include="Interfaces\ICobradorService.cs" />
+    <Compile Include="Interfaces\ICompensacionDePagoService.cs" />
+    <Compile Include="Interfaces\IControlRemisionConcurrenciaService.cs" />
+    <Compile Include="Interfaces\IDeudorDiaCobroService.cs" />
+    <Compile Include="Interfaces\IDeudorDiaReclamoService.cs" />
+    <Compile Include="Interfaces\IDiasService.cs" />
+    <Compile Include="Interfaces\IEdicionRecibo.cs" />
+    <Compile Include="Interfaces\IEstadoHojaService.cs" />
+    <Compile Include="Interfaces\IHojaService.cs" />
+    <Compile Include="Interfaces\IItemHojaDSGService.cs" />
+    <Compile Include="Interfaces\IItemHojaService.cs" />
+    <Compile Include="Interfaces\IReciboPagoService.cs" />
+    <Compile Include="Interfaces\IZonaService.cs" />
+    <Compile Include="Interfaces\IClienteCuentaService.cs" />
+    <Compile Include="Interfaces\IDepartamentoService.cs" />
+    <Compile Include="Interfaces\IDepositoService.cs" />
+    <Compile Include="Interfaces\IDescuentService.cs" />
+    <Compile Include="Interfaces\IEfectivoService.cs" />
+    <Compile Include="Interfaces\IDomicilioDeudorService.cs" />
+    <Compile Include="Interfaces\IInterfazFacturaService.cs" />
+    <Compile Include="Interfaces\IAccion.cs" />
+    <Compile Include="Interfaces\IAgendaService.cs" />
+    <Compile Include="Interfaces\IAnalistaService.cs" />
+    <Compile Include="Interfaces\IChequeService.cs" />
+    <Compile Include="Interfaces\IClienteService.cs" />
+    <Compile Include="Interfaces\IConfigurationService.cs" />
+    <Compile Include="Interfaces\IDeudorService.cs" />
+    <Compile Include="Interfaces\IFactura.cs" />
+    <Compile Include="Interfaces\ILocalidadService.cs" />
+    <Compile Include="Interfaces\ILOG_FacturaService.cs" />
+    <Compile Include="Interfaces\IOtroPagoService.cs" />
+    <Compile Include="Interfaces\IPagoService.cs" />
+    <Compile Include="Interfaces\IPaisService.cs" />
+    <Compile Include="Interfaces\IProntoPagoService.cs" />
+    <Compile Include="Interfaces\IProvinciaService.cs" />
+    <Compile Include="Interfaces\IRecibo.cs" />
+    <Compile Include="Interfaces\IReciboFactura.cs" />
+    <Compile Include="Interfaces\IRemisionDescuentoService.cs" />
+    <Compile Include="Interfaces\IRemisionService.cs" />
+    <Compile Include="Interfaces\IReporteService.cs" />
+    <Compile Include="Interfaces\IRetencionMTRService.cs" />
+    <Compile Include="Interfaces\IRetencionService.cs" />
+    <Compile Include="Interfaces\ISubTipoRetencionMTRService.cs" />
+    <Compile Include="Interfaces\ITipoPagoRaroService.cs" />
+    <Compile Include="Interfaces\ITransferenciaService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameWork\Services\Services.csproj">
+      <Project>{B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

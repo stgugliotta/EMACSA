@@ -1,0 +1,135 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5990650C-DC53-4405-85E3-A33BEA28E4EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntidadesAdmin</RootNamespace>
+    <AssemblyName>EntidadesAdmin</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccionAdmin.cs" />
+    <Compile Include="AgendaAdmin.cs" />
+    <Compile Include="AlertaAdmin.cs" />
+    <Compile Include="AnalistaAdmin.cs" />
+    <Compile Include="ChequeAdmin.cs" />
+    <Compile Include="ClienteAdmin.cs" />
+    <Compile Include="ClienteCuentaAdmin.cs" />
+    <Compile Include="ClienteDeudorAdmin.cs" />
+    <Compile Include="CompensacionDePagoAdmin.cs" />
+    <Compile Include="ConfigurationAdmin.cs" />
+    <Compile Include="CobradorAdmin.cs" />
+    <Compile Include="BancoAdmin.cs" />
+    <Compile Include="CambioAdmin.cs" />
+    <Compile Include="DeudorLivianoAdmin.cs" />
+    <Compile Include="MailAdmin.cs" />
+    <Compile Include="FacturaHistorialDeudorAdmin.cs" />
+    <Compile Include="DeudorDiaReclamoAlternativoAdmin.cs" />
+    <Compile Include="DomicilioDeudorAlternativoAdmin.cs" />
+    <Compile Include="DeudorDiaCobroAdmin.cs" />
+    <Compile Include="DeudorDiaReclamoAdmin.cs" />
+    <Compile Include="DiasAdmin.cs" />
+    <Compile Include="ControlRemisionConcurrenciaAdmin.cs" />
+    <Compile Include="EdicionReciboAdmin.cs" />
+    <Compile Include="EstadoHojaAdmin.cs" />
+    <Compile Include="HojaAdmin.cs" />
+    <Compile Include="ItemHojaAdmin.cs" />
+    <Compile Include="ItemHojaDSGAdmin.cs" />
+    <Compile Include="PagoAdmin.cs" />
+    <Compile Include="ReciboPagoAdmin.cs" />
+    <Compile Include="ZonaAdmin.cs" />
+    <Compile Include="DepositoAdmin.cs" />
+    <Compile Include="DescuentoAdmin.cs" />
+    <Compile Include="DepartamentoAdmin.cs" />
+    <Compile Include="DomicilioDeudorAdmin.cs" />
+    <Compile Include="EfectivoAdmin.cs" />
+    <Compile Include="LocalidadAdmin.cs" />
+    <Compile Include="PaisAdmin.cs" />
+    <Compile Include="OtroPagoAdmin.cs" />
+    <Compile Include="ProntoPagoAdmin.cs" />
+    <Compile Include="ProvinciaAdmin.cs" />
+    <Compile Include="ReciboAdmin.cs" />
+    <Compile Include="ReciboFacturaAdmin.cs" />
+    <Compile Include="RemisionAdmin.cs" />
+    <Compile Include="InterfazFacturaAdmin.cs" />
+    <Compile Include="DeudorAdmin.cs" />
+    <Compile Include="FacturaAdmin.cs" />
+    <Compile Include="LOG_FacturaAdmin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemisionDescuentoAdmin.cs" />
+    <Compile Include="ReporteAdmin.cs" />
+    <Compile Include="RetencionAdmin.cs" />
+    <Compile Include="RetencionMTRAdmin.cs" />
+    <Compile Include="SubTipoRetencionMTR.cs" />
+    <Compile Include="TipoPagoRaroAdmin.cs" />
+    <Compile Include="TransferenciaAdmin.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5FCAAD62-F987-4B50-BCE3-1F1916C4FD99}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesDAL\EntidadesDAL.csproj">
+      <Project>{FBE98852-409A-4AAC-A586-20132DAE2DC6}</Project>
+      <Name>EntidadesDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{C7CEF75C-B92F-4851-AFED-56D6B12517B9}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
+      <Project>{77BB72F8-B3E7-420C-82A5-66B5019C8DEA}</Project>
+      <Name>Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,364 @@
+﻿    <%@ master language="C#" autoeventwireup="true" inherits="MasterPage, App_Web_ndx1vod5" %>
+<%@ Register Assembly="EvaWebControls" Namespace="EvaWebControls" TagPrefix="ma" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Emacsa Gestión</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+    <link href="Css/GobbiMagicStyle.css" type="text/css" rel="stylesheet"/>
+    <link href="Css/GobbiStyle.css" type="text/css" rel="stylesheet"/>
+   
+    <script src="Scripts/jquery-1.3.2-vsdoc.js" type="text/javascript"></script>
+    
+     <script language="JavaScript" src="../js/Funciones.js" type="text/javascript"></script>
+     <script language="JavaScript" src="../js/shortcut.js" type="text/javascript"></script>
+     
+	 <script language="JavaScript" src="../js/Modal.js" type="text/javascript"></script>
+
+<%--	 <script src="../js/mootools.js" type="text/javascript"></script>
+<link rel="stylesheet" href="Css/sexyalertbox.css" type="text/css" media="all" />
+<script src="../js/sexyalertbox.packed.js" type="text/javascript"></script>--%>
+	 
+
+ 
+
+      <script language=javascript>
+
+function salir(e) 
+{ 
+var message='Si cierra esta ventana, puede perder los datos no guardados. ¿Está seguro de continuar? (Presione OK para salir del sitio o Cancel para continuar en él.)'; 
+var evtobj=window.event? event : e; 
+ 
+    if(evtobj == e) 
+    { 
+        //firefox 
+        if (!evtobj.clientY) 
+        { 
+             evtobj.returnValue = message; 
+        } 
+    } 
+    else //IE
+    {
+        if (evtobj.clientY < 0) 
+        { 
+            evtobj.returnValue = message; 
+        }
+    }
+}
+
+shortcut.add("Ctrl+C",function() {
+
+try
+{
+   var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+   ctrl.set_activeTab(ctrl.get_tabs()[0]);
+   var importe=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtImporte');
+   importe.focus();
+     // var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+    //  tab.value='CHEQUE';
+     // __doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+      
+    }
+catch(er)
+{}
+      }
+
+
+);
+
+shortcut.add("Ctrl+R",function() {
+
+try{
+        var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+        ctrl.set_activeTab(ctrl.get_tabs()[1])
+        var ddlRetenciones=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_cmbRetenciones');
+        ddlRetenciones.focus();
+       //     var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+         //   tab.value='RETENCION';
+           // __doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+    }
+catch(er)
+{}
+      }
+
+      
+      
+      );
+
+
+shortcut.add("Ctrl+E",function() {
+
+try
+{
+        var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+        ctrl.set_activeTab(ctrl.get_tabs()[2]);
+        var txtImporteEfectivo=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel3_txtImporteEfectivo');
+        txtImporteEfectivo.focus();
+            //var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+           // tab.value='EFECTIVO';
+            //__doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+      }
+catch(er)
+{}
+      }
+
+
+      );
+      
+       shortcut.add("Ctrl+D",function() {
+       try
+       {
+       var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+       ctrl.set_activeTab(ctrl.get_tabs()[3]);
+       var ddlCuenta=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_cmbCuentasClientes');
+       ddlCuenta.focus();
+            //var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+            //tab.value='DEPOSITO';
+            //__doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+      }
+      catch(er)
+{}
+
+      }
+
+);
+      
+      shortcut.add("Ctrl+T",function() {
+      try
+      {
+      var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+      ctrl.set_activeTab(ctrl.get_tabs()[4]);
+      var ddlCuentaCredito=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_cmbCuentaCredito');
+      ddlCuentaCredito.focus();
+      //      var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+        //    tab.value='TRANSFERENCIA';
+          //  __doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+      }
+   
+catch(er)
+{}
+   }
+      );
+      
+        shortcut.add("Ctrl+O",function() {
+        
+        try
+        {
+        var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+        ctrl.set_activeTab(ctrl.get_tabs()[5]);
+        var ddlTipoPago=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel6_cmbTipoPagoRaro');
+        ddlTipoPago.focus();
+            //var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+            //tab.value='OTROPAGO';
+            //__doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');            
+      }
+           
+catch(er)
+{}
+
+ }
+      );
+
+
+shortcut.add("Ctrl+S",function() {
+try
+{
+              var ctrl=$find('ctl00_Contentplaceholder1_TabContainer1');
+              ctrl.set_activeTab(ctrl.get_tabs()[6]);
+              var ddlConcepto=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel7_cmbDescuentos');
+              ddlConcepto.focus();
+            //var tab = document.getElementById('ctl00_Contentplaceholder1_hdPostbackControl');
+            //tab.value='DESCUENTO';
+            //__doPostBack('ctl00_Contentplaceholder1_UpdatePanelTabContainer','1');
+      }
+      catch(er)
+{}
+      }
+
+
+      );
+
+
+
+
+
+
+</script>
+
+<asp:ContentPlaceHolder EnableViewState="true" ID="menuJQUERY" runat="server"></asp:ContentPlaceHolder>
+
+<asp:Literal ID="menuCaller" runat="server" />
+
+<!-- aca -->
+
+
+    <style type="text/css">
+        .style3
+        {
+            width: 780px;
+        }
+        .style4
+        {
+            font-style: normal;
+            font-variant: normal;
+            font-weight: bold;
+            font-size: 8pt;
+            line-height: normal;
+            font-family: Verdana;
+            color: #FFFFFF;
+            width: 780px;
+            margin: 0px;
+            padding: 0px;
+            background-image: url('/Images/FondoAzulTeco.gif');
+            background-repeat: repeat;
+        }
+       
+
+    
+      </style>
+
+
+</head>
+
+<body onbeforeunload="salir(event)"  style="vertical-align:top;"/>
+<%--<body onbeforeunload="salir(event)"  onkeydown="return VerificarTeclaPresionada(event)"/>--%>
+    <form id="form1" runat="server">
+        
+             
+    <asp:ScriptManager ID="ScriptManagerMaster" runat="server" EnablePageMethods="true" EnablePartialRendering="true"  AsyncPostBackTimeout="300">
+
+     <%-- <ajaxToolkit:ToolkitScriptManager runat="Server" EnablePartialRendering="true" EnablePageMethods="true" ID="ToolkitScriptManager1" >--%>
+    <Services>
+    <asp:ServiceReference Path="~/GService.asmx" />
+  </Services>
+<%--  </ajaxToolkit:ToolkitScriptManager>--%>
+    </asp:ScriptManager>
+        
+        <table width="100%">
+        <tr>
+  <td align="left" style="border:1px; height:10px;" valign="top">
+  <table width="100%">
+
+        <tr>
+        <td valign="right">
+               <asp:Image ID="Image2" runat="server" ImageUrl="/Images/LogoEmacsaSmall.png" />
+        </td>
+        <td valign="baseline" align="right">
+               <table style="width:80%;" >
+                   <tr>
+                       </td>
+                   </tr>
+                   <tr>
+                       <td>
+                       <asp:Image ID="Image3" runat="server" ImageUrl="/Images/Perfil.gif" />
+                       <asp:Label ID="lblUsuario" runat="server" Text="" CssClass="labelBold">
+                       </asp:Label>
+                       <br />
+                       </td>
+                   </tr>
+
+               </table>
+               
+               
+                
+          </td>
+               </tr>
+               <tr>
+               <td colspan="2">
+              <div >
+                   
+	        <div class="resultheader"></div>
+	        <div class="menumain" style="padding:0;">
+		        <div style="background-image:url('../Images/fondo_menu.png'); height: 22px;">
+    		        <asp:Literal  ID="menuStructure" runat="server" />
+			    <div style="clear:both;"></div>
+		        </div>
+	        </div>
+	        
+	        
+        </div>
+        </td>
+        </tr>
+</table>
+</td> 
+</tr>
+</table> 
+   <asp:contentplaceholder id="ContentHeader" runat="server">
+               
+ <%--      <asp:Image ID="Image1" runat="server" ImageUrl="/Images/LogoEmacsa.bmp" Height="30px" />           --%>
+   </asp:contentplaceholder>
+    
+   
+   
+
+                    
+               
+                          <asp:contentplaceholder id="Contentplaceholder1" runat="server">
+                  
+                    </asp:contentplaceholder>
+        
+        
+            <asp:contentplaceholder id="ContentPie" runat="server" Visible="true">
+            </asp:contentplaceholder>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                <td class="headerText" align="center" valign="middle">Emacsa Gestión - www.streambe.com - 2013</td>
+                </tr>
+                <tr>
+                <td></td>
+
+                </tr>
+                </table>           
+            
+        
+    </form>
+</body>
+<script type="text/javascript">
+<!--
+
+var $j=jQuery.noConflict();
+
+$j(document).ready(function()
+{
+	var options = {minWidth: 120, arrowSrc: '/UIControls/MenuJQuery/Menu/arrow_right.gif', copyClassAttr: true, onClick: function(e, menuItem){
+	    openMenu($j(this).text());
+		//alert('you clicked item "' + $(this).text() + e  + '"');
+	}};
+	$j('#menuone').menu(options);
+ 
+	var items = [	{src: 'test', url:'http://www.jquery.com'},
+					{src: ''}, // separator
+					{src: 'test2', subMenu: [	{src: 'sub 1'},
+												{src: 'sub 2', url: 'http://p.sohei.org', target: '_blank'},
+												{src: 'sub 3'}]}];
+	$j('#menutwo').menu(options, items);
+	$j('#menuthree').menu(options);
+	$j('#menufive>img').menu(options, '#menufivelist');
+
+	//creating a menu without items
+	var menu = new $j.Menu('#menufour', null, options);
+	//adding items to the menu
+	menu.addItems([
+		new $j.MenuItem({src: 'test', url:'http://www.jquery.com'}, options),
+		new $j.MenuItem({src: ''}) // separator
+	]);
+	var itemWithSubmenu = new $j.MenuItem({src: 'test2'}, options);
+	//creating a menu with items (as child of itemWithSubmenu)
+	new $j.Menu(itemWithSubmenu, [
+		new $j.MenuItem({src: 'sub 1'}, options),
+		new $j.MenuItem({src: 'sub 2', url: 'http://p.sohei.org', target: '_blank'}, options),
+		new $j.MenuItem({src: 'sub 3'}, options)
+	], options);
+	//adding the submenu to the main menu
+	menu.addItem(itemWithSubmenu);
+
+	//highlight stuff..
+	///dp.SyntaxHighlighter.ClipboardSwf = 'http://p.sohei.org/wp-content/plugins/syntaxhighlighter-plus/files/clipboard.swf';
+	//dp.SyntaxHighlighter.HighlightAll('code');
+});
+-->
+ 
+</script>	 
+</html>

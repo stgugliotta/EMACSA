@@ -1,0 +1,299 @@
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master"   Theme="SampleSiteTheme"  EnableEventValidation="false" AutoEventWireup="true" CodeFile="ViewGestionDeDeudores.aspx.cs" inherits="Vistas_ViewGestionDeDeudores" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %> 
+<%@ Register Assembly="EvaWebControls" Namespace="EvaWebControls" TagPrefix="ma" %>
+<%@ Register Assembly="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"	Namespace="System.Web.UI" TagPrefix="asp" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="Contentplaceholder1" Runat="Server">
+<link rel="stylesheet" type="text/css" href="/UIControls/MenuJQuery/styleMenu.css" />	      	 
+<script type="text/javascript" src="/UIControls/MenuJQuery/Menu/jquery-1.2.2.pack.js"></script>
+<script type="text/javascript" src="/UIControls/MenuJQuery/Menu/jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="/UIControls/MenuJQuery/jquery.menu.js"></script>
+<script type="text/javascript" src="/UIControls/MenuJQuery/Menu/shCore.js"></script>
+<script type="text/javascript" src="/UIControls/MenuJQuery/Menu/shBrushXml.js"></script>
+<script type="text/javascript" src="/UIControls/MenuJQuery/Menu/shBrushJScript.js"></script>	
+
+ <script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+	var options = {minWidth: 120, arrowSrc: '/UIControls/MenuJQuery/Menu/arrow_right.gif', copyClassAttr: true, onClick: function(e, menuItem){
+	    //openMenu(
+	    
+	    alert('you clicked item "' + $(this).text() + e  + '"');
+	    
+	    document.location='http://localhost/vistas/ViewImportacionDeFacturas.aspx';
+	            
+
+	}};
+
+});
+-->
+ 
+</script>	
+
+    <link href="../Css/cssUpdateProgress.css" rel="stylesheet" type="text/css" />
+    	 	 
+  
+
+
+<script type="text/javascript" language="javascript">
+	            var ModalProgress = '<%= ModalProgress.ClientID %>';   
+                var ModalNuevoDeudor = '<%= ModalNuevoDeudor.ClientID %>';
+                var ModalmpeSeleccion = '<%= mpeSeleccion.ClientID %>';
+                var ModalextPnlEditarGrilla = '<%= extPnlEditarGrilla.ClientID %>';
+                
+              		
+                Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginReq);
+                Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endReq);
+                
+                
+
+function beginReq(sender, args) 
+{
+
+	var controlCaller=args.get_postBackElement().id;
+   
+    if(controlCaller.indexOf('Button1')!=-1){$find(ModalProgress).show();}
+    if(controlCaller.indexOf('btnAgregarDeudor')!=-1){$find(ModalProgress).show()};
+    if(controlCaller.indexOf('GvResultados')!=-1){$find(ModalProgress).show()};
+       
+ }
+
+function endReq(sender, args)
+{
+	                        //  shows the Popup 
+	                        $find(ModalProgress).hide();
+} 
+
+                    
+function ShowConfirma() 
+{
+                       // $find(ModalNuevoDeudor).show();
+}
+
+function HideConfirma() 
+{
+             //           $find(ModalNuevoDeudor).hide();
+}
+function HideConfirma2() 
+{
+                        $find(ModalmpeSeleccion).hide();
+}
+function HideModalNuevoDeudor() 
+{
+                        $find(ModalmpeSeleccion).hide();
+}
+
+function HideEdicionDeudor() 
+{
+                        $find(ModalextPnlEditarGrilla).hide();
+}
+
+function ValidarEliminacion()
+{
+if (!confirm('Esta seguro que desa eliminar el registro seleccionado?'))
+{
+
+__doPostBack('ctl00$Contentplaceholder1$TabContainer1$TabPanel1$btnDelete','1');
+
+
+}
+else{
+
+
+
+__doPostBack('ctl00$Contentplaceholder1$TabContainer1$TabPanel1$btnDelete','2');
+              
+
+}
+}
+
+
+function CambiarTab()
+{
+
+var a=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_ClientState'); 
+alert('si');
+a.value='{&quot;ActiveTabIndex&quot;:2,&quot;TabState&quot;:[true,true,true]}';
+
+}
+
+	</script>
+	
+	<script type="text/javascript"> 
+    function actualizar() 
+    { 
+        PageMethods.actualizar (actualizarOK, actualizarFAIL);  
+    } 
+    function actualizarOK(result) 
+    {        
+        $get('l1').innerHTML = result;            
+    } 
+
+    function actualizarFAIL(error) 
+    { 
+        $get('l1').innerHTML = "Intentelo mas tarde"; 
+    } 
+    
+    
+    function QuitarValidatorsDesdeElCliente()
+    {
+
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorNombreNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorCuitNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorDomicilioNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorLocaNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorProvNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorCPNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorTelNuevo'));
+       Array.remove(Page_Validators, document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_RequiredFieldValidatorTelAuxNuevo'));
+       
+       var checkDeudor=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_radioDeudor');
+       var descriptionDeudor=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_rdoDescripcion');
+       var textboxDescription=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtDescDeudor');
+       var textboxIdDeudor=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtId_Deudor');
+       var fieldError = document.getElementById('ctl00$Contentplaceholder1$hiddenFieldError');
+       fieldError.value='NoError';
+       if (checkDeudor.checked)
+       {
+         if (descriptionDeudor.checked)
+         {
+           if (textboxDescription.value=='')
+           {
+             alert('Ingrese el nombre o parte de él para realizar la búsqueda.');
+             fieldError.value='Error';
+             return;
+           }
+           
+         }else
+         {
+         
+             if (textboxIdDeudor.value=='')
+             {
+                 alert('Ingrese el id de deudor para realizar la búsqueda.');
+                 fieldError.value='Error';
+                 return;
+             }
+             
+             if (isNaN(textboxIdDeudor.value))
+             {
+                 alert('Ingrese un valor numérico para el id de deudor a buscar.');
+                 fieldError.value='Error';
+                 return;
+             }
+             
+         }
+       }
+  
+  
+  
+}
+  
+</script>   
+	
+<link href="../Css/GobbiMagicStyle.css" type="text/css" rel="stylesheet" />
+     <link href="../Css/GobbiStyle.css" type="text/css" rel="stylesheet" />
+
+    
+<%--    <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true" EnablePartialRendering="true">
+    </asp:ScriptManager>--%>
+
+		<asp:Panel ID="panelUpdateProgress" runat="server" CssClass="updateProgress">
+			<asp:UpdateProgress ID="UpdateProg1" DisplayAfter="0" runat="server">
+				<ProgressTemplate>
+					<div style="position: relative; top: 30%; text-align: center;">
+						<img src="../Images/procesando.gif" style="vertical-align: middle" alt="Processing" />
+						Procesando...
+					</div>
+				</ProgressTemplate>
+			</asp:UpdateProgress>
+		</asp:Panel>
+
+        <asp:Panel ID="pnlNuevoDeudor" runat="server">
+		<div id="div2">
+            <table border="0" cellpadding="0" cellspacing ="7">
+                <tr>
+                     <td class="FondoCelda"> &nbsp;</td>
+                     <td class="FondoCelda" colspan="2">
+                         <asp:Label runat="server" ID="Label3" CssClass="label" 
+                         Text="¿Confirma que desea realiza los cambios en la base de datos? "></asp:Label>
+                    </td>
+                     <td class="FondoCelda"> &nbsp;</td>
+               </tr>
+                <tr>
+                    <td class="FondoCelda">&nbsp;</td>
+                    <td class="FondoCelda" align="right" valign="middle">
+                            
+                     </td>
+                     <td class="FondoCelda" align="left" valign="middle">
+                        
+                     </td>
+                      <td class="FondoCelda"> &nbsp;</td>
+                </tr>
+              </table>
+              </div>
+    </asp:Panel>
+
+		<ajaxToolkit:ModalPopupExtender ID="ModalProgress" runat="server" TargetControlID="panelUpdateProgress"
+			BackgroundCssClass="modalBackground" PopupControlID="panelUpdateProgress" />
+			
+   
+    	<ajaxToolkit:ModalPopupExtender ID="ModalNuevoDeudor" runat="server" TargetControlID="pnlNuevoDeudor"
+		                                                                	BackgroundCssClass="modalBackground" PopupControlID="pnlNuevoDeudor" />
+
+
+    <asp:hiddenfield runat="server" id="hiddenFieldError"></asp:hiddenfield>	
+    
+<table align="center" style="height: 557px; width: 768px;">
+<tr style="height:200px;">
+<td valign="top">
+ 
+ 
+   
+<asp:UpdatePanel runat="server" ID="UpdatePanelTabContainer" UpdateMode="Conditional">         
+   <ContentTemplate>
+    <ajaxToolkit:TabContainer runat="server" ID="TabContainer1" 
+        Height="480px" Width="100%" ActiveTabIndex="0"
+        onactivetabchanged="TabContainer1_ActiveTabChanged" AutoPostBack="true" >
+
+        <ajaxToolkit:TabPanel runat="server" ID="TabPanel2" HeaderText="Factura" Enabled="true" Visible="true"><HeaderTemplate>Gestiones</HeaderTemplate><ContentTemplate>
+            
+            
+            
+            </ContentTemplate></ajaxToolkit:TabPanel>                                
+        
+        
+        
+        
+        </ajaxToolkit:TabContainer>
+    
+</ContentTemplate>
+
+</asp:UpdatePanel>
+</td>
+
+</tr>
+
+
+</table>
+
+
+<%--    </form>
+</body>--%>
+
+
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentHeader" Runat="Server">
+
+	<br />
+	
+
+</asp:Content>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPie" Runat="Server">
+
+                    
+		     
+</asp:Content>

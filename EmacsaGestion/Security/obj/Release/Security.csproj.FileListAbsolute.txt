@@ -1,0 +1,25 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Release\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Release\Security.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\Security.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\bin\Release\Security.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\bin\Release\Security.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\Security.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\Security.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Security\bin\Release\Security.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Security\bin\Release\Security.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Security\obj\Release\Security.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Security\obj\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\bin\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\bin\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Release\Security.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Security\bin\Release\Security.dll
+C:\Gaston\Emacsa\EmacsaGestion\Security\bin\Release\Security.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Release\Security.dll
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Release\Security.pdb

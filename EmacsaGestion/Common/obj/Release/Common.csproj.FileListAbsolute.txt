@@ -1,0 +1,50 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Release\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\obj\Release\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Common\obj\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Common\obj\Release\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Release\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Common\obj\Release\Common.pdb

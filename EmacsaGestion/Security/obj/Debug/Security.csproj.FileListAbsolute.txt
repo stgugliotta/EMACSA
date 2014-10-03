@@ -1,0 +1,35 @@
+D:\Netares\EmacsaSVN\Gobbi\Security\bin\Debug\Security.dll
+D:\Netares\EmacsaSVN\Gobbi\Security\bin\Debug\Security.pdb
+D:\Netares\EmacsaSVN\Gobbi\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Security\obj\Debug\Security.dll
+D:\Netares\EmacsaSVN\Gobbi\Security\obj\Debug\Security.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Security\bin\Debug\Security.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Security\bin\Debug\Security.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Security\obj\Debug\Security.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Security\obj\Debug\Security.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Security\bin\Debug\Security.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Security\bin\Debug\Security.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Security\obj\Debug\Security.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Security\obj\Debug\Security.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Security\bin\Debug\Security.dll
+C:\Tools\Netares\Proyecto\Gobbi\Security\bin\Debug\Security.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Gobbi\Security\obj\Debug\Security.dll
+C:\Tools\Netares\Proyecto\Gobbi\Security\obj\Debug\Security.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Debug\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Debug\Security.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Debug\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Debug\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\bin\Debug\Security.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\bin\Debug\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Debug\Security.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Security\obj\Debug\Security.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Security\bin\Debug\Security.dll
+C:\Gaston\Emacsa\EmacsaGestion\Security\bin\Debug\Security.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Debug\Security.dll
+C:\Gaston\Emacsa\EmacsaGestion\Security\obj\Debug\Security.pdb

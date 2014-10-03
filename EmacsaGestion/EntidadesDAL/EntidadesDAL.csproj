@@ -1,0 +1,148 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FBE98852-409A-4AAC-A586-20132DAE2DC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntidadesDAL</RootNamespace>
+    <AssemblyName>EntidadesDAL</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EvaWebControls, Version=1.2.0.0, Culture=neutral, PublicKeyToken=7b46a7c770dfe28a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\EvaWebControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractMapper.cs" />
+    <Compile Include="DALDeudorLiviano.cs" />
+    <Compile Include="DALCambio.cs" />
+    <Compile Include="DALBanco.cs" />
+    <Compile Include="DALMail.cs" />
+    <Compile Include="DALFacturaHistorialDeudor.cs" />
+    <Compile Include="DALDeudorDiaReclamoAlternativo.cs" />
+    <Compile Include="DALDomicilioDeudorAlternativo.cs" />
+    <Compile Include="DALAlerta.cs" />
+    <Compile Include="DALClienteDeudor.cs" />
+    <Compile Include="DALCobrador.cs" />
+    <Compile Include="DALCompensacionDePago.cs" />
+    <Compile Include="DALDeudorDiaCobro.cs" />
+    <Compile Include="DALDeudorDiaReclamo.cs" />
+    <Compile Include="DALDias.cs" />
+    <Compile Include="DALControlRemisionConcurrencia.cs" />
+    <Compile Include="DALEdicionRecibo.cs" />
+    <Compile Include="DALEstadoHoja.cs" />
+    <Compile Include="DALHoja.cs" />
+    <Compile Include="DALItemHoja.cs" />
+    <Compile Include="DALItemHojaDSG.cs" />
+    <Compile Include="DALPago.cs" />
+    <Compile Include="DALReciboPago.cs" />
+    <Compile Include="DALZona.cs" />
+    <Compile Include="DALClienteCuenta.cs" />
+    <Compile Include="DALDepartamento.cs" />
+    <Compile Include="DALDomicilioDeudor.cs" />
+    <Compile Include="DALDeposito.cs" />
+    <Compile Include="DALDescuento.cs" />
+    <Compile Include="DALDeudor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DALEfectivo.cs" />
+    <Compile Include="DALInterfazFactura.cs" />
+    <Compile Include="DALLocalidad.cs" />
+    <Compile Include="DALPais.cs" />
+    <Compile Include="DALOtroPago.cs" />
+    <Compile Include="DALProntoPago.cs" />
+    <Compile Include="DALProvincia.cs" />
+    <Compile Include="DALRecibo.cs" />
+    <Compile Include="DALReciboFactura.cs" />
+    <Compile Include="DALRemision.cs" />
+    <Compile Include="DALAccion.cs" />
+    <Compile Include="DALAgenda.cs" />
+    <Compile Include="DALAnalista.cs" />
+    <Compile Include="DALCheque.cs" />
+    <Compile Include="DALCliente.cs" />
+    <Compile Include="DALConfiguration.cs" />
+    <Compile Include="DALFactura.cs" />
+    <Compile Include="DALLOG_Factura.cs" />
+    <Compile Include="DALRemisionDescuento.cs" />
+    <Compile Include="DALReporte.cs" />
+    <Compile Include="DALRetencion.cs" />
+    <Compile Include="DALRetencionMTR.cs" />
+    <Compile Include="DALSubTipoRetencionMTR.cs" />
+    <Compile Include="DALTipoPagoRaro.cs" />
+    <Compile Include="DALTransferencia.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="DBConnectionSecurity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameWork\CoreServices\CoreServices.csproj">
+      <Project>{951D4CED-FAFF-4969-9A68-3F6EEF83DB61}</Project>
+      <Name>CoreServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FrameWork\Services\Services.csproj">
+      <Project>{B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5FCAAD62-F987-4B50-BCE3-1F1916C4FD99}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{C7CEF75C-B92F-4851-AFED-56D6B12517B9}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Herramientas\Herramientas.csproj">
+      <Project>{FB3E05BC-F762-4F5B-89AC-06A4AD2DA3D2}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!--
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

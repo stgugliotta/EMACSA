@@ -1,0 +1,271 @@
+D:\Netares\EmacsaSVN\Gobbi\Implementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Implementation.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Implementation.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Entidades.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesAdmin.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Herramientas.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesDAL.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Interfaces.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\office.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.xml
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesDAL.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Entidades.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Herramientas.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Interfaces.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.xml
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesAdmin.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\obj\Debug\Implementation.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\obj\Debug\Implementation.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\obj\Debug\Implementation.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Implementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Implementation\obj\Debug\Implementation.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Implementation\obj\Debug\Implementation.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\Implementation\obj\Debug\Implementation.pdb
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\Implementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\Implementation\obj\Debug\Implementation.dll
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\Implementation\obj\Debug\Implementation.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\GoogleMaps.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.dll
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\GoogleMaps.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.pdb
+D:\Netares\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\GoogleMaps.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\GoogleMaps.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Implementation\obj\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\Gobbi\Implementation\obj\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Implementation.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Interfaces.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Interfaces.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Debug\Implementation.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Debug\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Interfaces.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\office.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Interfaces.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\obj\Debug\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Implementation\obj\Debug\Implementation.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Implementation.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Implementation.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Herramientas.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Interfaces.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\office.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesDAL.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Herramientas.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\GoogleMaps.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Interfaces.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\CoreServices.xml
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\bin\Debug\EntidadesAdmin.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\obj\Debug\Implementation.dll
+C:\Gaston\Emacsa\EmacsaGestion\Implementation\obj\Debug\Implementation.pdb

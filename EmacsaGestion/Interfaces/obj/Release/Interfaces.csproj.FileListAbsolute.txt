@@ -1,0 +1,115 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Interfaces.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\obj\Release\Interfaces.g.resources
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\obj\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Interfaces\obj\Release\Interfaces.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Interfaces.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\obj\Release\Interfaces.g.resources
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\obj\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Interfaces\obj\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.g.resources
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.g.resources
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Interfaces.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\office.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Herramientas.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\GoogleMaps.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.g.resources
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.dll
+C:\Gaston\Emacsa\EmacsaGestion\Interfaces\obj\Release\Interfaces.pdb

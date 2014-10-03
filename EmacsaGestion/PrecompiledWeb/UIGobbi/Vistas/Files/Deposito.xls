@@ -1,0 +1,1923 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Resultado">
+    <s:Table>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Formulario</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">N° Cliente</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Razón Social</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CUIT Emisor</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Numero RC</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha RC</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MEDIO P</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Numero</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Bco</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Suc</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Cuit</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Importe</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha Emi</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha Venci</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">52844               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MARIO SILY Y ASOCIADOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30570127779</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044306</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">31470300</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">007</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">159</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30570127779</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">727,21</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">23/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">13/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">26762               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">COLOR PRESS SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30643663208</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044305</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">5637451</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">006</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30643663208</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">11871,02</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">23/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">26/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">26762               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">COLOR PRESS SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30643663208</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044305</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">5637454</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">006</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30643663208</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">11871,01</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">23/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">07/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">80765               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FAYSER SOLUCIONES IMPRESAS S.A</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30710079974</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00042666</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1948116</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">017</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">462</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30710079974</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3800</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">11/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">80765               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FAYSER SOLUCIONES IMPRESAS S.A</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30710079974</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00042666</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">71715341</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">065</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637689279</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3190</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">25/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">80765               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FAYSER SOLUCIONES IMPRESAS S.A</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30710079974</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00042666</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">71715340</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">065</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637689297</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">447,7</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">25/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56625               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ROTAFORM IMPRESORES S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">33618249609</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043842</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">5838580</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">615</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">33618249609</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">12246,13</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56916               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">NAIFUINO HECTOR LEONARDO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20084627845</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043841</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16123814</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">011</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">016</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30707746463</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">70617,62</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">28/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">29/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">59247               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FORNO CARLOS ALBERTO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20228569322</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043840</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">109</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">072</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">194</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30712197338</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14000</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">48587               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ALETTI SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30652016738</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044264</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1193</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">015</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">007</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30652016738</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3385,43</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">05/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">69103               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">IMPREFER S.R.L.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30574290127</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043988</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">72318651</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">015</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">009</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30574290127</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1866,88</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">21/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">31/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">73818               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">IMPRESORES DE ARTE S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708811145</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043989</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3358</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">072</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">025</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708811145</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1289,6</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">03/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">73818               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">IMPRESORES DE ARTE S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708811145</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043989</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EF</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EFECTIVO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">60,5</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49066               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CONTARTESE GRAFICA SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30613078181</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043990</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1046296</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">017</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">304</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30517089849</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">55000</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">22/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49066               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CONTARTESE GRAFICA SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30613078181</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043990</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1721454</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">007</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">367</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30709004219</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3575,9</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">01/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49066               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CONTARTESE GRAFICA SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30613078181</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043990</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">10154015</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">322</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">001</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30682842713</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">7000</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">10/05/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">15/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">50060               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">IMPRENTA BUSNELLI SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30500191194</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0000-00021954</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">87123393</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">067</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30500191194</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3337,18</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">01/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">64639               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">SIMIONATO MARCELO ALBERTO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20128295489</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00042844</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">124</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">072</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">216</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20338097523</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3131,24</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">22/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">13/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">64639               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">SIMIONATO MARCELO ALBERTO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20128295489</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00042844</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">82205</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">259</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">082</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708988320</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">2305</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">10/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">52480               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">GRAFICA ALEPH SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30653642934</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044111</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56326049</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">039</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30505718336</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">2964,5</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">08/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">59447389</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">000</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20084625265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">160</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">09/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">10/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">68008419</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">055</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30660872856</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1330</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">13/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">10192135</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">321</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">020</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">27160987656</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1100</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">22/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">15/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">46327574</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">011</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">361</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">23128455159</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">730</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">26/06/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">15/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16800156</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">072</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">168</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20110564067</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">260</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">29/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">60552658</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">007</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">018</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30711789606</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">4946,4</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">15/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">72290601</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">015</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">055</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30680779097</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">160</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">29/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">49574               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ESTILOS GRAFICOS SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30637466867</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EF</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EFECTIVO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">89,78</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">21716               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">VALENDAM SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30591079987</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044266</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">55581174</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">028</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20177324265</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">2000</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">13/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">21716               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">VALENDAM SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30591079987</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044266</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">453350</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">017</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">279</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30707598049</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">21104,75</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">23/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">21716               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">VALENDAM SA</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30591079987</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044266</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">31962890</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">007</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">023</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30591079987</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">4225,23</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">29/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">48555               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ADAST SRL</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30556565798</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044152</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">87288781</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">035</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30579028234</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">9049,49</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">27/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">28/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">55980               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">DEBIASE JULIO ERNESTO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20148449679</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044153</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">78625730</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">033</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20148449679</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">646</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">05/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">62883               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">GIZZI MARIO MARCOS</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20082676083</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043383</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16400421</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">072</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">164</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20233653579</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3234</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">04/06/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">72916               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FARADON S.R.L.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044263</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56272504</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">052</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3942,16</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">09/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">72916               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FARADON S.R.L.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044263</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56272506</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">052</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">9825,6</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">16/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30/09/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">72916               </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">FARADON S.R.L.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044263</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56272512</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">052</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708814756</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3671,09</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">07/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">84031</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">V.C.R. IMPRESORES S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043544</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">77267183</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">016</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">9400</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">84031</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">V.C.R. IMPRESORES S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043544</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">77267184</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">016</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">9406,16</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">14/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">04/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">84031</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">V.C.R. IMPRESORES S.A.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00043544</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">77267215</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">016</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30708131926</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">12791,44</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">07/10/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">85996</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MARTINI JORGE ALEJANDRO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20106232424</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044304</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EF</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EFECTIVO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">60,5</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1163</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">85996</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MARTINI JORGE ALEJANDRO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">20106232424</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00044304</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">02/09/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">54694177</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">006</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">30632432484</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1936</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">27/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">28/08/2013</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menú principal</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script type="text/javascript" src="jquery-1.2.2.pack.js"></script>
+<script type="text/javascript" src="jquery.dimensions.min.js"></script>
+<script type="text/javascript" src="../jquery.menu.js"></script>
+<script type="text/javascript" src="shCore.js"></script>
+<script type="text/javascript" src="shBrushXml.js"></script>
+<script type="text/javascript" src="shBrushJScript.js"></script>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+	var options = {minWidth: 120, arrowSrc: 'arrow_right.gif', copyClassAttr: true, onClick: function(e, menuItem){
+		alert('you clicked item "' + $(this).text() + e  + '"');
+	}};
+	$('#menuone').menu(options);
+
+	var items = [	{src: 'test', url:'http://www.jquery.com'},
+					{src: ''}, // separator
+					{src: 'test2', subMenu: [	{src: 'sub 1'},
+												{src: 'sub 2', url: 'http://p.sohei.org', target: '_blank'},
+												{src: 'sub 3'}]}];
+	$('#menutwo').menu(options, items);
+	$('#menuthree').menu(options);
+	$('#menufive>img').menu(options, '#menufivelist');
+
+	//creating a menu without items
+	var menu = new $.Menu('#menufour', null, options);
+	//adding items to the menu
+	menu.addItems([
+		new $.MenuItem({src: 'test', url:'http://www.jquery.com'}, options),
+		new $.MenuItem({src: ''}) // separator
+	]);
+	var itemWithSubmenu = new $.MenuItem({src: 'test2'}, options);
+	//creating a menu with items (as child of itemWithSubmenu)
+	new $.Menu(itemWithSubmenu, [
+		new $.MenuItem({src: 'sub 1'}, options),
+		new $.MenuItem({src: 'sub 2', url: 'http://p.sohei.org', target: '_blank'}, options),
+		new $.MenuItem({src: 'sub 3'}, options)
+	], options);
+	//adding the submenu to the main menu
+	menu.addItem(itemWithSubmenu);
+
+	//highlight stuff..
+	///dp.SyntaxHighlighter.ClipboardSwf = 'http://p.sohei.org/wp-content/plugins/syntaxhighlighter-plus/files/clipboard.swf';
+	//dp.SyntaxHighlighter.HighlightAll('code');
+});
+-->
+</script>
+</head>
+<body>
+<div >
+	<div class="resultheader"></div>
+	<div class="result" style="padding:0;">
+		<!--div style="border-bottom: 1px solid #000;background:#eee;"-->
+		<div style="border-bottom: 1px solid #000;background:#eee;">
+			<ul id="menuone" class="menu">
+				<li class="menumain">Gestión
+					<ul><li id="nueva_ventana.aspx">New&nbsp;window</li>
+						<li></li>
+						<li>Save...</li>
+						<li>Print...</li>
+						<li></li>
+						<li>Exit</li>
+					</ul>
+				</li>
+				<li class="menumain">Reemisión
+					<ul><li>Undo</li>
+						<li>Redo</li>
+						<li></li>
+						<li>Cut</li>
+						<li>Copy</li>
+						<li>Paste<ul><li>All</li><li>Something</li></ul></li>
+						<li>Delete</li>
+					</ul>
+				</li>
+				<li class="menumain">Facturas
+					<ul><li>Bookmark&nbsp;manager</li>
+						<li></li>
+						<li>some&nbsp;bookmark</li>
+						<li>another&nbsp;bookmark</li>
+						<li></li>
+						<li>Imported&nbsp;bookmarks
+							<ul><li>bookmark&nbsp;one</li>
+								<li>bookmark&nbsp;two</li>
+								<li>bookmark&nbsp;three</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="menumain" style="float:right;">Ayuda
+					<ul><li>Help&nbsp;index</li>
+						<li></li>
+						<li>About...
+							<ul>
+								<li>me</li>
+								<li>you</li>
+								<li>them</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<div style="clear:both;"></div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

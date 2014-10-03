@@ -1,0 +1,957 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="RemanenteDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>08/14/2009 18:04:33</timestamp>
+      <milliseconds>207</milliseconds>
+    </settings>
+    <timestamp>06/19/2008 16:11:48</timestamp>
+    <milliseconds>14</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>52</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>53</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>64</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>65</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>76</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>77</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>80</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>88</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>89</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>92</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>101</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>102</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="OpeningCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1012">
+        <context>Invalid spacing around the opening curly bracket.</context>
+        <line>105</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="ClosingCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1013">
+        <context>Invalid spacing around the closing curly bracket.</context>
+        <line>116</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>116</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="ClosingCurlyBracketsMustBeSpacedCorrectly" ruleCheckId="SA1013">
+        <context>Invalid spacing around the closing curly bracket.</context>
+        <line>118</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>118</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>27</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotContainUnderscore" ruleCheckId="SA1310">
+        <context>Field names must not contain underscores.</context>
+        <line>27</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotContainUnderscore" ruleCheckId="SA1310">
+        <context>Field names must not contain underscores.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>35</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotContainUnderscore" ruleCheckId="SA1310">
+        <context>Field names must not contain underscores.</context>
+        <line>35</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>39</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The field must have a documentation header.</context>
+        <line>40</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="VariableNamesMustNotBePrefixed" ruleCheckId="SA1308">
+        <context>Variable names must not start with 'm_'.</context>
+        <line>40</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertyDocumentationMustHaveValue" ruleCheckId="SA1609">
+        <context>The public or protected property's documentation header must contain a value tag.</context>
+        <line>52</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>52</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>property names begin with an upper-case letter: eliminado.</context>
+        <line>52</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>53</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to deleted must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to deleted must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>57</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertyDocumentationMustHaveValue" ruleCheckId="SA1609">
+        <context>The public or protected property's documentation header must contain a value tag.</context>
+        <line>64</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>64</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>property names begin with an upper-case letter: idCaso.</context>
+        <line>64</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>65</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to id_caso must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>66</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to id_caso must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>69</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertyDocumentationMustHaveValue" ruleCheckId="SA1609">
+        <context>The public or protected property's documentation header must contain a value tag.</context>
+        <line>76</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>76</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>property names begin with an upper-case letter: idRemanente.</context>
+        <line>76</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>77</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to id_remanente must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>78</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>80</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>80</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to id_remanente must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>81</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertyDocumentationMustHaveValue" ruleCheckId="SA1609">
+        <context>The public or protected property's documentation header must contain a value tag.</context>
+        <line>88</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>88</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>89</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to importe must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>90</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>92</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>92</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to importe must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>93</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertyDocumentationMustHaveValue" ruleCheckId="SA1609">
+        <context>The public or protected property's documentation header must contain a value tag.</context>
+        <line>101</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>101</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>property names begin with an upper-case letter: usuarioEliminacion.</context>
+        <line>101</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>102</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to deleted_usuario must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>103</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>105</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CurlyBracketsForMultiLineStatementsMustNotShareLine" ruleCheckId="SA1500">
+        <context>If a statement spans multiple lines, the opening curly bracket must be placed on its own line.</context>
+        <line>105</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to deleted_usuario must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>106</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The property must have a documentation header.</context>
+        <line>110</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to m_usuario_creador must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>112</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to m_usuario_creador must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>113</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-1683192666">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-1089101542">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="TipoDocSistemaOrigenDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/22/2009 13:54:07</timestamp>
+    <milliseconds>380</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoDocumentoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/22/2009 12:53:48</timestamp>
+    <milliseconds>583</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AutorizacionDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>94</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AccionDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>797</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CartaBusquedaParamDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>47</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CartaMotivoARDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>125</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CartaBusquedaDataContract.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:41</timestamp>
+    <milliseconds>984</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoBusquedaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>594</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoClienteDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/22/2009 12:56:39</timestamp>
+    <milliseconds>742</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoCartaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:41</timestamp>
+    <milliseconds>953</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoDocumentoMacroconceptoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 16:37:41</timestamp>
+    <milliseconds>580</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/20/2009 14:43:08</timestamp>
+    <milliseconds>570</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoServicioDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>734</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CasoTipoCyQDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>813</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConfigDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>78</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConteoCartaDataContract.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>609</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EnvioCartaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>766</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EstadoCasoCyQDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>16</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MotivoCierreDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>78</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PermisoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>594</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProcedenciaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>547</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ServicioMotivoNoBajaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>797</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SistemaOrigenDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>109</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TipoCartaDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>641</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TipoDocSistemaEstadoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>656</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TipoDocumentoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>750</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TipoMacroconceptoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>672</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UsuarioDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>672</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IAccionService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>734</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IAutorizacionService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>828</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICartaBusquedaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>547</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICartaMotivoARService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>891</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoClienteService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>625</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoCartaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>766</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoDocumentoMacroconceptoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>922</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoDocumentoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/22/2009 14:42:51</timestamp>
+    <milliseconds>198</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/22/2009 15:34:49</timestamp>
+    <milliseconds>363</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoServicioService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>641</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoTipoCyQService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>750</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IComboEstadoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:37:18</timestamp>
+    <milliseconds>2</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IConfigService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>812</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IEnvioCartaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>672</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IEstadoCasoCyQService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>766</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IConteoCartaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>781</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ILogCambioDeEstadoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:42:06</timestamp>
+    <milliseconds>51</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IMotivoCierreService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>828</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IPermisoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>906</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IReporteService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:42:27</timestamp>
+    <milliseconds>863</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IProcedenciaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>891</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IResultadoEstadoDocumentoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:42:41</timestamp>
+    <milliseconds>51</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IServicioMotivoNoBajaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>719</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ISistemaOrigenService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>875</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITipoCartaService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>578</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITipoDocSistemaEstadoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>594</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITipoDocSistemaOrigenService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>656</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITipoDocumentoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>609</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITipoMacroconceptoService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>609</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IUsuarioService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:40</timestamp>
+    <milliseconds>578</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/16/2009 15:51:42</timestamp>
+    <milliseconds>969</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="LogCambioDeEstadoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:50:29</timestamp>
+    <milliseconds>663</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ComboEstadoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:51:30</timestamp>
+    <milliseconds>164</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="697896628">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CasoAccionDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 12:04:49</timestamp>
+    <milliseconds>481</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ReporteDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 11:52:49</timestamp>
+    <milliseconds>398</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ResultadoEstadoDocumentoDataContracts.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 15:54:47</timestamp>
+    <milliseconds>226</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ICasoAccionService.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>09/29/2009 17:47:42</timestamp>
+      <milliseconds>277</milliseconds>
+    </settings>
+    <timestamp>11/25/2009 12:01:44</timestamp>
+    <milliseconds>214</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

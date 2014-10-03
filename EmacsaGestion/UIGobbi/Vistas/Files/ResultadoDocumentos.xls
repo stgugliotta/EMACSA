@@ -1,0 +1,195 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <o:DocumentProperties>
+    <o:Author>Aplicativo EMACSA </o:Author>
+    <o:LastAuthor>Aplicativo EMACSA</o:LastAuthor>
+    <o:Created>2013-11-08T15:41:11</o:Created>
+    <o:LastSaved>2013-11-08T15:41:11</o:LastSaved>
+    <o:Manager>Proyecto EMACSA</o:Manager>
+    <o:Company>GPS Systems S.A.</o:Company>
+    <o:Version>11.9999</o:Version>
+  </o:DocumentProperties>
+  <x:ExcelWorkbook>
+    <x:WindowHeight>9210</x:WindowHeight>
+    <x:WindowTopX>0</x:WindowTopX>
+    <x:WindowTopY>30</x:WindowTopY>
+    <x:WindowWidth>15195</x:WindowWidth>
+    <x:ProtectStructure>False</x:ProtectStructure>
+    <x:ProtectWindows>False</x:ProtectWindows>
+  </x:ExcelWorkbook>
+  <s:Styles>
+    <s:Style s:ID="Default" s:Name="Normal">
+      <s:Alignment s:Vertical="Bottom" />
+    </s:Style>
+    <s:Style s:ID="s18" s:Name="Moneda">
+      <s:NumberFormat s:Format="_ &quot;$&quot;\ * #,##0.00_ ;_ &quot;$&quot;\ * \-#,##0.00_ ;_ &quot;$&quot;\ * &quot;-&quot;??_ ;_ @_ " />
+    </s:Style>
+    <s:Style s:ID="m157238036">
+      <s:Alignment s:Horizontal="Center" s:Vertical="Bottom" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="m157238046">
+      <s:Alignment s:Horizontal="Left" s:Vertical="Bottom" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:Size="9" />
+      <s:Interior s:Color="#FFFFFF" s:Pattern="Solid" />
+    </s:Style>
+    <s:Style s:ID="s21">
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="s22">
+      <s:Font s:Bold="1" s:Color="#000080" />
+    </s:Style>
+    <s:Style s:ID="s23">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+    </s:Style>
+    <s:Style s:ID="s24">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="s25">
+      <s:Alignment s:Vertical="Bottom" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="s26">
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="s28" s:Parent="s18">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:Color="#000080" />
+      <s:NumberFormat s:Format="_ &quot;$&quot;\ * #,##0.00_ ;_ &quot;$&quot;\ * \-#,##0.00_ ;_ &quot;$&quot;\ * &quot;-&quot;??_ ;_ @_ " />
+    </s:Style>
+    <s:Style s:ID="s29">
+      <s:Alignment s:Horizontal="Left" s:Vertical="Bottom" />
+    </s:Style>
+    <s:Style s:ID="s44">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+    </s:Style>
+    <s:Style s:ID="s45">
+      <s:Font s:Bold="1" s:Color="#008000" />
+    </s:Style>
+    <s:Style s:ID="s46">
+      <s:Alignment s:Horizontal="Left" s:Vertical="Bottom" />
+    </s:Style>
+    <s:Style s:ID="s47">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:Color="#FF0000" />
+    </s:Style>
+    <s:Style s:ID="s48">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:NumberFormat s:Format="Short Date" />
+    </s:Style>
+    <s:Style s:ID="s49">
+      <s:Alignment s:Horizontal="Right" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:NumberFormat s:Format="0" />
+    </s:Style>
+    <s:Style s:ID="s50">
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:NumberFormat s:Format="Fixed" />
+    </s:Style>
+    <s:Style s:ID="s51">
+      <s:NumberFormat s:Format="Fixed" />
+    </s:Style>
+    <s:Style s:ID="s53">
+      <s:Alignment s:Horizontal="Left" s:Vertical="Bottom" s:WrapText="1" />
+      <s:Font s:Bold="1" s:Color="#008000" />
+    </s:Style>
+    <s:Style s:ID="s54">
+      <s:Alignment s:Horizontal="Left" s:Vertical="Bottom" />
+      <s:Font s:Bold="1" s:Color="#006699" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Resultado">
+    <s:Table>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Resultados Obtenidos</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">id Deudor</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">nombre</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">cuit</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">domicilio</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">localidad</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">provincia</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

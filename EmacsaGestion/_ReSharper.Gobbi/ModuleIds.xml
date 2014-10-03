@@ -1,0 +1,14 @@
+<Modules>
+  <Module PersistentId="FBE98852-409A-4AAC-A586-20132DAE2DC6" ModuleId="EntidadesDAL" />
+  <Module PersistentId="C7CEF75C-B92F-4851-AFED-56D6B12517B9" ModuleId="Entidades" />
+  <Module PersistentId="951D4CED-FAFF-4969-9A68-3F6EEF83DB61" ModuleId="CoreServices" />
+  <Module PersistentId="600F1512-F474-4177-9386-7A8D0C55A7E8" ModuleId="UIGobbi" />
+  <Module PersistentId="5FCAAD62-F987-4B50-BCE3-1F1916C4FD99" ModuleId="Common" />
+  <Module PersistentId="FB3E05BC-F762-4F5B-89AC-06A4AD2DA3D2" ModuleId="Herramientas" />
+  <Module PersistentId="B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA" ModuleId="Services" />
+  <Module PersistentId="5990650C-DC53-4405-85E3-A33BEA28E4EC" ModuleId="EntidadesAdmin" />
+  <Module PersistentId="B1B4FE54-0AF5-4E46-B1A2-23EE0C157D90" ModuleId="Implementation" />
+  <Module PersistentId="2F1521E3-D434-498C-ADC4-91A9D0867A2F" ModuleId="GoogleMaps" />
+  <Module PersistentId="77BB72F8-B3E7-420C-82A5-66B5019C8DEA" ModuleId="Interfaces" />
+  <Module PersistentId="B5698CE4-8125-4B70-8E22-ACB83727B5D2" ModuleId="Security" />
+</Modules>

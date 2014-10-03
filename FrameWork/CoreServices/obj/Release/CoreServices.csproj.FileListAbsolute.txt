@@ -1,0 +1,28 @@
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\obj\Release\ar.com.telecom.eva.CoreServices.Resources.Resources.resources
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\obj\Release\CoreServices.csproj.GenerateResource.Cache
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\obj\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\FrameWork\CoreServices\obj\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\obj\Release\ar.com.telecom.eva.CoreServices.Resources.Resources.resources
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.csproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\obj\Release\ar.com.telecom.eva.CoreServices.Resources.Resources.resources
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.csproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.pdb
+C:\Gaston\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\FrameWork\CoreServices\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\FrameWork\CoreServices\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\FrameWork\CoreServices\obj\Release\ar.com.telecom.eva.CoreServices.Resources.Resources.resources
+C:\Gaston\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.csproj.GenerateResource.Cache
+C:\Gaston\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.dll
+C:\Gaston\Emacsa\FrameWork\CoreServices\obj\Release\CoreServices.pdb

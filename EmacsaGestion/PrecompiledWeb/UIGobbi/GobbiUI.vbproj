@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63435B14-888A-461B-A15B-88ABB6390738}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>GobbiUI</RootNamespace>
+    <AssemblyName>GobbiUI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>GobbiUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>GobbiUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.30512.20315, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CarlosAg.ExcelXmlWriter, Version=1.0.0.6, Culture=neutral, PublicKeyToken=eac822d9c4196ba1">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\CarlosAg.ExcelXmlWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="CoreServices, Version=2.3.0.1, Culture=neutral, PublicKeyToken=9869adafbb7f9e85, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\CoreServices.dll</HintPath>
+    </Reference>
+    <Reference Include="EvaWebControls, Version=1.5.0.0, Culture=neutral, PublicKeyToken=7b46a7c770dfe28a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\EvaWebControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Services, Version=1.2.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Ajax, Version=3.0.31106.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\System.Web.Ajax.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="hb.aspx" />
+    <Content Include="hs.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Login.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Vistas\ViewGestionDeDeudores.aspx.designer.vb">
+      <DependentUpon>ViewGestionDeDeudores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\ViewGestionDeDeudores.aspx.vb">
+      <DependentUpon>ViewGestionDeDeudores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\ViewPrincipal.aspx.designer.vb">
+      <DependentUpon>ViewPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\ViewPrincipal.aspx.vb">
+      <DependentUpon>ViewPrincipal.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Code\Constants.cs" />
+    <Content Include="App_Code\ConvertDataTable.cs" />
+    <Content Include="App_Code\CustomInterfacesSection.cs" />
+    <Content Include="App_Code\EvaPage.cs" />
+    <Content Include="App_Code\Exporter.cs" />
+    <Content Include="App_Code\Formatos.cs" />
+    <Content Include="App_Code\Utils.cs" />
+    <Content Include="Css\EvaMagicStyle.css" />
+    <Content Include="Css\EvaStyle.css" />
+    <Content Include="Images\Access.gif" />
+    <Content Include="Images\activo.JPG" />
+    <Content Include="Images\agrega.gif" />
+    <Content Include="Images\agregar.gif" />
+    <Content Include="Images\agregarCaso.ico" />
+    <Content Include="Images\agregarCaso1.gif" />
+    <Content Include="Images\animacion.gif" />
+    <Content Include="Images\animacion1.gif" />
+    <Content Include="Images\animacion3.gif" />
+    <Content Include="Images\Aplicar.gif" />
+    <Content Include="Images\bgder.gif" />
+    <Content Include="Images\bluepage.gif" />
+    <Content Include="Images\build.gif" />
+    <Content Include="Images\cal.gif" />
+    <Content Include="Images\Calculator.ico" />
+    <Content Include="Images\Calendar.png" />
+    <Content Include="Images\Calendar_disabled.png" />
+    <Content Include="Images\CancelarEdicion.PNG" />
+    <Content Include="Images\Cargando.gif" />
+    <Content Include="Images\Clear.ico" />
+    <Content Include="Images\ConfirmarEdicion.PNG" />
+    <Content Include="Images\Contraer.gif" />
+    <Content Include="Images\Contrasenia.gif" />
+    <Content Include="Images\Copia de Calendar.png" />
+    <Content Include="Images\correcto.gif" />
+    <Content Include="Images\datos.gif" />
+    <Content Include="Images\Default.jpg" />
+    <Content Include="Images\delete.gif" />
+    <Content Include="Images\delete_disabled.gif" />
+    <Content Include="Images\Derivar.gif" />
+    <Content Include="Images\Detalle.gif" />
+    <Content Include="Images\download.gif" />
+    <Content Include="Images\editar.gif" />
+    <Content Include="Images\Esperando.gif" />
+    <Content Include="Images\EvaNetChico.jpg" />
+    <Content Include="Images\EvaNet_chico.jpg" />
+    <Content Include="Images\excel.gif" />
+    <Content Include="Images\excel1.gif" />
+    <Content Include="Images\excel_big.gif" />
+    <Content Include="Images\excel_mid.gif" />
+    <Content Include="Images\excel_small.gif" />
+    <Content Include="Images\fdo_barra_tile.gif" />
+    <Content Include="Images\fdo_tile.gif" />
+    <Content Include="Images\fondoarriba_eva7.jpg" />
+    <Content Include="Images\FondoAzulTeco.gif" />
+    <Content Include="Images\FondoAzulTeco.jpg" />
+    <Content Include="Images\FondoCelesteEVA.gif" />
+    <Content Include="Images\fondo_boton_Derivar.gif" />
+    <Content Include="Images\fondo_boton_Preview.gif" />
+    <Content Include="Images\Forward.ico" />
+    <Content Include="Images\headerBlue.gif" />
+    <Content Include="Images\headerGray.gif" />
+    <Content Include="Images\headerGreen.gif" />
+    <Content Include="Images\History.ico" />
+    <Content Include="Images\Ico1.gif" />
+    <Content Include="Images\Ico10.gif" />
+    <Content Include="Images\Ico11.gif" />
+    <Content Include="Images\Ico12.gif" />
+    <Content Include="Images\Ico13.gif" />
+    <Content Include="Images\Ico14.gif" />
+    <Content Include="Images\Ico14_disabled.gif" />
+    <Content Include="Images\Ico15.gif" />
+    <Content Include="Images\Ico2.gif" />
+    <Content Include="Images\Ico3.gif" />
+    <Content Include="Images\Ico4.gif" />
+    <Content Include="Images\Ico5.gif" />
+    <Content Include="Images\Ico6.gif" />
+    <Content Include="Images\Ico7.gif" />
+    <Content Include="Images\Ico8.gif" />
+    <Content Include="Images\Ico9.gif" />
+    <Content Include="Images\ico_borrar.gif" />
+    <Content Include="Images\incomplete.gif" />
+    <Content Include="Images\Login.gif" />
+    <Content Include="Images\LogoError.GIF" />
+    <Content Include="Images\LogoEVA01.jpg" />
+    <Content Include="Images\LogoEVA02.jpg" />
+    <Content Include="Images\LogoEVA03.gif" />
+    <Content Include="Images\LogoTeco01.jpg" />
+    <Content Include="Images\LogoTeco02.gif" />
+    <Content Include="Images\LogoWarn2.gif" />
+    <Content Include="Images\logo_telecom_home.jpg" />
+    <Content Include="Images\luigi.gif" />
+    <Content Include="Images\Lupa_chica.gif" />
+    <Content Include="Images\Perfil.gif" />
+    <Content Include="Images\planilla_contenbordea.gif" />
+    <Content Include="Images\planilla_contenborded.gif" />
+    <Content Include="Images\planilla_contenbordeda.gif" />
+    <Content Include="Images\planilla_contenbordei.gif" />
+    <Content Include="Images\planilla_contenbordeia.gif" />
+    <Content Include="Images\planilla_smnudesha.jpg" />
+    <Content Include="Images\planilla_smnuhabil.jpg" />
+    <Content Include="Images\planilla_smnunada.jpg" />
+    <Content Include="Images\print.gif" />
+    <Content Include="Images\procesando.gif" />
+    <Content Include="Images\Project_32.gif" />
+    <Content Include="Images\radioChecked.JPG" />
+    <Content Include="Images\radioUnChecked.JPG" />
+    <Content Include="Images\Reasignar.gif" />
+    <Content Include="Images\redo.gif" />
+    <Content Include="Images\search1.gif" />
+    <Content Include="Images\Spacer.gif" />
+    <Content Include="Images\sticky.gif" />
+    <Content Include="Images\stop.JPG" />
+    <Content Include="Images\subnav_scale.gif" />
+    <Content Include="Images\TablasUp.gif" />
+    <Content Include="Images\TablasUpLeft.gif" />
+    <Content Include="Images\TablasUpRight.gif" />
+    <Content Include="Images\tablas_up.gif" />
+    <Content Include="Images\tablas_up_left.gif" />
+    <Content Include="Images\tablas_up_right.gif" />
+    <Content Include="Images\tableft1.gif" />
+    <Content Include="Images\tableftB.gif" />
+    <Content Include="Images\tabright1.gif" />
+    <Content Include="Images\tabrightB.gif" />
+    <Content Include="Images\Tab_01.JPG" />
+    <Content Include="Images\Tab_02.JPG" />
+    <Content Include="Images\Tab_03.JPG" />
+    <Content Include="Images\Tab_04.JPG" />
+    <Content Include="Images\Tab_05.JPG" />
+    <Content Include="Images\Tab_Activo_01.JPG" />
+    <Content Include="Images\Tab_Activo_02.JPG" />
+    <Content Include="Images\Tab_Activo_03.JPG" />
+    <Content Include="Images\Tab_Activo_04.JPG" />
+    <Content Include="Images\Tab_Activo_05.JPG" />
+    <Content Include="Images\Tab_Anticipo.JPG" />
+    <Content Include="Images\Tab_Anticipo_Activo.JPG" />
+    <Content Include="Images\Tab_BloqueosConversiones.JPG" />
+    <Content Include="Images\Tab_BloqueosConversiones_Activo.JPG" />
+    <Content Include="Images\Tab_DatosGenerales.JPG" />
+    <Content Include="Images\Tab_DatosGenerales_Activo.JPG" />
+    <Content Include="Images\Tab_ImporAFinanciar.JPG" />
+    <Content Include="Images\Tab_ImporAFinanciar_Activo.JPG" />
+    <Content Include="Images\Tab_Opciones.JPG" />
+    <Content Include="Images\Tab_Opciones_Activo.JPG" />
+    <Content Include="Images\Telecom.jpg" />
+    <Content Include="Images\textbox.jpg" />
+    <Content Include="Images\up.gif" />
+    <Content Include="Images\Usuario.gif" />
+    <Content Include="Js\DateValid.js" />
+    <Content Include="Js\DropCalendar.js" />
+    <Content Include="Js\Funciones.js" />
+    <Content Include="Js\Modal.js" />
+    <Content Include="MasterPage.master" />
+    <Content Include="MasterPage.master.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Vistas\HeaderGobbi.aspx" />
+    <Content Include="Vistas\HeaderGobbi.aspx.cs" />
+    <Content Include="Vistas\ViewAltaDeudor.aspx" />
+    <Content Include="Vistas\ViewAltaDeudor.aspx.cs" />
+    <Content Include="Vistas\ViewAyudaMotivoRechazo.aspx" />
+    <Content Include="Vistas\ViewAyudaMotivoRechazo.aspx.cs" />
+    <Content Include="Vistas\ViewDetalleUltimaImportacionCliente.aspx" />
+    <Content Include="Vistas\ViewDetalleUltimaImportacionCliente.aspx.cs" />
+    <Content Include="Vistas\ViewExportToExcel.aspx" />
+    <Content Include="Vistas\ViewExportToExcel.aspx.cs" />
+    <Content Include="Vistas\ViewGestionAnalista.aspx" />
+    <Content Include="Vistas\ViewGestionAnalista.aspx.cs" />
+    <Content Include="Vistas\ViewGestionDeDeudores.aspx" />
+    <Content Include="Vistas\ViewGestionDeDeudores.aspx.cs" />
+    <Content Include="Vistas\ViewImportacionDeFacturas.aspx" />
+    <Content Include="Vistas\ViewImportacionDeFacturas.aspx.cs" />
+    <Content Include="Vistas\ViewMailEstadoCuenta.aspx" />
+    <Content Include="Vistas\ViewMailEstadoCuenta.aspx.cs" />
+    <Content Include="Vistas\ViewPopUpHitoFactura.aspx" />
+    <Content Include="Vistas\ViewPopUpHitoFactura.aspx.cs" />
+    <Content Include="Vistas\ViewRemisionDeValores.aspx" />
+    <Content Include="Vistas\ViewRemisionDeValores.aspx.cs" />
+    <Content Include="Vistas\ViewReportes.aspx" />
+    <Content Include="Vistas\ViewReportes.aspx.cs" />
+    <Content Include="Vistas\ViewResultadosImportacion.aspx" />
+    <Content Include="Vistas\ViewResultadosImportacion.aspx.cs" />
+    <Content Include="Vistas\wfrmEdicionCaso.aspx" />
+    <Content Include="Vistas\wfrmEdicionCaso.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Vistas\ViewPrincipal.aspx" />
+    <None Include="Images\Thumbs.db.r255" />
+    <None Include="Images\Thumbs.db.r303" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Vistas\Files\ResultadoDocumentos.xls" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5FCAAD62-F987-4B50-BCE3-1F1916C4FD99}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3733</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Services</name>
+    </assembly>
+    <members>
+        <member name="T:Gobbi.services.ServiceInfoCollection">
+            <summary>
+            Es la estructura en memoria que representa la colección de todos los servicios. 
+            Se obtiene a partir de un XML. En cada uno de sus elementos posee la informacion 
+            necesaria para invocar de manera inproc, a cada uno de los servicios.
+            </summary>
+            <seealso cref="T:Gobbi.services.ServiceInfo"/>
+            <seealso cref="T:Gobbi.services.ServiceCatalog"/>
+        </member>
+        <member name="T:Gobbi.services.ServiceInfo">
+            <summary>
+            Clase sin comportamiento que contiene en sus propiedades la informacion necesaria para instanciar clases de servicios.
+            Encapsula la información necesaria para que el ServiceClient pueda realizar la invocación a un servicio dado.
+            </summary>
+            <seealso cref="T:Gobbi.services.ServiceCatalog"/>
+            <seealso cref="T:Gobbi.services.ServiceInfoCollection"/>
+        </member>
+        <member name="M:Gobbi.services.ServiceInfo.#ctor">
+            <summary>
+             Constructor sin parametros
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.ServiceInfo.#ctor(System.String,System.String)">
+            <summary>
+            Constructor que recibe como parametros el nombre de servicio, y su tipo.
+            </summary>
+            <param name="srvName">Nombre del servicio</param>
+            <param name="srvType">Informacion necesaria para la invocacion</param>
+        </member>
+        <member name="M:Gobbi.services.ServiceInfo.ToString">
+            <summary>
+            Sobrecarga que devuelve un string con la informacion de invocacion para el servicio.
+            </summary>
+            <returns>String con el tipo de servicio, o sea la informacion para la invocacion del mismo.</returns>
+        </member>
+        <member name="P:Gobbi.services.ServiceInfo.ServiceType">
+            <summary>
+            String que contiene la informacion necesaria para realizar la invocacion.
+            </summary>
+        </member>
+        <member name="P:Gobbi.services.ServiceInfo.ServiceName">
+            <summary>
+            String con el nombre del servicio.
+            </summary>
+        </member>
+        <member name="P:Gobbi.services.ServiceInfo.EndPointName">
+            <summary>
+            Lista de endpoints, los cuales identifican las interfaces que implementa el servicio.
+            </summary>
+        </member>
+        <member name="T:Gobbi.services.ServiceCatalog">
+            <summary>
+            Clase que administra un catálogo de servicios.
+            El catalogo de servicios es un repositorio XML donde se listan los 
+            diferentes servicios con la informacion necesaria para su invocacion.
+            Se utilizara el cache de la infraestructura de ASP.NET.
+            </summary>
+        </member>
+        <member name="F:Gobbi.services.ServiceCatalog.CACHE_KEY">
+            <summary>
+            Constante con la clave 
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.ServiceCatalog.EnsureHttpRuntime">
+            <summary>
+            Este metodo se fija si ya existe httpruntime, si no es asi crea uno nuevo.
+            Es necesario que exista previamente para poder utilizar la cache de asp.net
+            </summary>
+        </member>
+        <member name="F:Gobbi.services.ServiceCatalog.instance">
+            <summary>
+            Constructor estatico que cumple con el patron singleton.
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.ServiceCatalog.#ctor">
+            <summary>
+            Constructor, es privado porque solo se puede instanciar una vez, usando la propiedad <see cref="P:Gobbi.services.ServiceCatalog.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.ServiceCatalog.LoadXmlFile">
+            <summary>
+            Carga el repositorio de servicios del archivo XML en memoria.
+            </summary>
+            <returns>Devuelve una estructura ServiceInfoCollection con la informacion obtenida del archivo XML.</returns>
+        </member>
+        <member name="M:Gobbi.services.ServiceCatalog.GetServiceType``1(System.String)">
+            <summary>
+            Metodo generico que busca un servicio, retornando su tipo, que es la informacion necesaria para su posterior invocacion.
+            Si el repositorio de servicios no esta en la memoria cache, usando el metodo LoadXmlFile, lo carga en esta.
+            </summary>
+            <remarks>En el siguiente ejemplo se muestra como funciona este metodo</remarks>
+            <example>
+            <code>
+            // logica de negocio
+            string typeName = ServiceCatalog.Instance.GetServiceType&lt;IExample&gt;(serviceName);
+            // invocacion del servicio
+            </code>
+            </example>
+            <param name="serviceName">Servicio en el que se va a efectuar la busqueda</param>
+            <typeparam name="T">Es la interfaz que tiene que implementar el servicio</typeparam>
+            <returns>Un string con el tipo del servicio</returns>
+        </member>
+        <member name="P:Gobbi.services.ServiceCatalog.ServiceFilePath">
+            <summary>
+            Ruta del archivo xml que contiene el repositorio de servicios.
+            </summary>
+        </member>
+        <member name="P:Gobbi.services.ServiceCatalog.Cache">
+            <summary>
+            Propiedad que encapsula el acceso a la cache de ASP.NET.
+            </summary>
+        </member>
+        <member name="P:Gobbi.services.ServiceCatalog.Instance">
+            <summary>
+            Propiedad estatica que devuelve la instancia unica de ServiceCatalog.
+            </summary>
+        </member>
+        <member name="T:Gobbi.services.TransparentProxy`1">
+            <summary>
+            Provee la funcionalidad basica para proxies transparentes.
+            Esta clase que se construye dentro de la arquitectura dinámicamente y permite hacer 
+            intercepciones a las llamadas realizando operaciones antes, o después de la invocación 
+            a los servicios. Técnicamente el objetivo de este patrón de arquitectura es conservar 
+            el control de las ejecuciones en un modelo inproc.
+            </summary>
+            <typeparam name="T">Interface que tiene que instanciar el transparent proxy</typeparam>
+        </member>
+        <member name="F:Gobbi.services.TransparentProxy`1._serviceName">
+            <summary>
+            Nombre del servicio al que se invocara en la intercepcion
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.TransparentProxy`1.#ctor(System.String)">
+            <summary>
+            Inicializa una nueva instancia de la clase TransparentProxy.
+            </summary>
+            <example>
+            <remarks>En el siguiente ejemplo se instancia un transparent proxy a una clase que implementa la interfaz IExample.</remarks>
+            <code>
+             TransparentProxy&lt;IExample&gt; transparentProxy = new TransparentProxy&lt;T&gt;(ExampleTypeName);
+             instance = transparentProxy.CreateProxy() as IExample;
+            </code>
+            </example>
+            <param name="serviceName">Nombre del servicio al que se invocara en la intercepcion.</param>
+        </member>
+        <member name="M:Gobbi.services.TransparentProxy`1.CreateProxy">
+            <summary>
+            Crea un transparent proxy al servicio.
+            </summary>
+            <returns>Devuelve un transparent proxy del servicio requerido</returns>
+        </member>
+        <member name="M:Gobbi.services.TransparentProxy`1.Invoke(System.Runtime.Remoting.Messaging.IMessage)">
+            <summary>
+            Permite realizar la intercepcion en donde se invoca al servicio real, sobrecargando este metodo.
+            </summary>
+            <param name="msg">El mensaje con los datos del metodo a interceptar.</param>
+            <returns>Un mensaje con la respuesta de la intercepcion.</returns>
+        </member>
+        <member name="T:Gobbi.services.ServiceClient`1">
+            <summary>
+             Se encarga de instanciar servicios mediante la interfaz correspondiente.
+             Es la principal pieza de invocación de la arquitectura. La capa de presentación accede a los servicios 
+             a través del ServiceClient. Este mecanismo permite invocar un servicio, abstrayendo al cliente de dónde 
+             este se encuentra alojado y del canal de invocación.
+             Esta clase obtiene la información del catálogo de servicios y retornando la interfaz 
+             del servicio, permite que el cliente intercambie los DataContracts definidos con el mismo.
+             ServiceClient accede al catálogo de servicios, obteniendo los assemblies correspondientes, 
+             y los ejecuta dinámicamente.
+             </summary>
+             <typeparam name="T">Interface que tiene que implementar el servicio</typeparam>
+        </member>
+        <member name="F:Gobbi.services.ServiceClient`1.serviceDict">
+            <summary>
+            El atributo serviceDict es un diccionario cuyos elementos poseen las instancias
+            de los proxies a los servicios.
+            </summary>
+        </member>
+        <member name="M:Gobbi.services.ServiceClient`1.GetService(System.String)">
+            <summary>
+            Metodo que entrega al cliente un proxy transparente de la interfaces de servicio. 
+            Esto permite hacer intercepciones a las llamadas, tomar registro de las ejecuciones 
+            y otras tareas.
+            </summary>
+            <exception cref="T:Gobbi.CoreServices.ExceptionHandling.GobbiFunctionalException">Representa errores inesperados del código, o fallas en dispositivos o entidades externas</exception>
+            <exception cref="T:Gobbi.CoreServices.ExceptionHandling.GobbiTechnicalException">Representa a los errores funcionales de los servicios, es decir, los errores que están directamente relacionados con la lógica de negocio.</exception>
+            <param name="serviceName">Nombre del servicio que se desea instanciar</param>
+            <returns>Proxy transparente del servicio que implementa la interface</returns>
+            <example>
+            <remarks>
+            En el siguiente ejemplo se invoca al proxy del servicio EjService que implementa la interface
+            IEjService
+            </remarks>
+            <code>
+            //Invocacion al proxy del servicio EjService que implemente la interface IEjService
+            IEjService ejsrv = ServiceClient&lt;IEjService&gt;.GetService("EjService");
+            </code>
+            <c>Notese que la llamada se realiza en modo estatico</c>
+            </example>
+        </member>
+        <member name="P:Gobbi.services.ServiceClient`1.ServiceFile">
+            <summary>
+            Este atributo devuelve la ruta del archivo xml con el repositorio de servicios
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,99 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Resultado">
+    <s:Table>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Formulario</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">N° Cliente</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Razón Social</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CUIT Emisor</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Numero RC</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha RC</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MEDIO P</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Numero</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Bco</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Suc</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Cuit</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Importe</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha Emi</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Fecha Venci</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">1142</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">WTL00011</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">ACTIVA SPORTWEAR            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0000-31111113</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">19/03/2014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EF</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">EFECTIVO</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">97</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

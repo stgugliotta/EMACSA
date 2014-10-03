@@ -1,0 +1,100 @@
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\EvaWebControls.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Release\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\EvaWebControls.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EvaWebControls.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Para Gabi\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EvaWebControls.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EntidadesDAL.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\EvaWebControls.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\office.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\Herramientas.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Release\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Release\EntidadesDAL.pdb

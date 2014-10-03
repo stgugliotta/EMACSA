@@ -1,0 +1,252 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Worksheet s:Name="Resultado">
+    <s:Table>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">101</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">PES</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">07/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MAT</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">12995530</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">06/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1551,55</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">56550717</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">08/08/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">7941,34</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">71256455</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">015</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">540,87</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">77675300</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">014</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">29/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3179,3</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">8882323</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">065</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">3358,05</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">CH</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">5499527</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">25/07/2013</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">676,63</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">00000000000</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">1162</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">0001-00017247</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">MTL01485            </s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">DF</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">U</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">17247,74</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

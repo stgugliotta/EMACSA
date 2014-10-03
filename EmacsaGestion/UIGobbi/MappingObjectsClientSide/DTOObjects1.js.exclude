@@ -1,0 +1,303 @@
+﻿function Cheque()
+{
+   this.importe=0;
+   this.numCheque=0;
+   this.vencimiento='';
+   this.fechaEmision='';
+   this.banco='';
+   this.sucursal='';
+   this.cuit='';
+   this.cuenta='';
+   this.cp='';
+   
+}
+
+Cheque.prototype.AsignarControlToObject=function(tipoPago)
+{
+ var tipoPagoC;
+ var hdPagosCargados;
+    switch (tipoPago)
+    {
+
+         case 0:
+         
+                 if (Page_ClientValidate('chequeGroup')==true)
+                 {  
+                       
+                         
+                         this.importe=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtImporte');
+                         this.numCheque=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtCheque');
+                         this.vencimiento=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtFechaVencimiento');
+                         this.fechaEmision=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtFechaEmision');
+                         this.banco=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtBanco');
+                         this.sucursal=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtSucursal');
+                         this.cuit=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtCuitEmisor');
+                         this.cuenta=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtCuenta');
+                         this.cp=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel2_txtCp');
+                        
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[CHEQUE]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';importe=' +  this.importe.value + ';cheque=' + this.numCheque.value  + ';fechaVencimiento=' + this.vencimiento.value  + ';fechaEmision=' + this.fechaEmision.value  + ';banco=' + this.banco.value  + ';sucursal=' + this.sucursal.value  + ';cuitEmisor=' + this.cuit.value  + ';cuenta=' + this.cuenta.value  + ';cp=' + this.cp.value  + ';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();
+                         this.importe.value='';
+                         this.numCheque.value='';
+                         this.vencimiento.value='';
+                         this.fechaEmision.value='';
+                         this.banco.value='';
+                         this.sucursal.value='';
+                         this.cuit.value='';
+                         this.cuenta.value='';
+                         this.cp.value='';
+                }       
+         break;
+         
+         case 1:
+                 if (Page_ClientValidate('retencionesGroup')==true)
+                 {  
+                 alert('aaa');
+                         var txtNumeroRetencion=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_txtNumeroRetencion');
+                         var txtImporteRetencion=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_txtImporteRetencion');
+                         var ddlRetenciones=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_cmbRetenciones');
+                         var ddlSubTipo=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_ddlSubtipo');                      
+                         var txtFechaRetencion=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel1_txtFechaRetencion');                      
+                         
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[RETENCION]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';concepto=' +  ddlRetenciones.value + ';subtipo=' + ddlSubTipo.value  + ';numeroRetencion=' + txtNumeroRetencion.value  + ';importe=' + txtImporteRetencion.value  + ';fechaRetencion=' + txtFechaRetencion.value  +';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();
+                         txtNumeroRetencion.value='';
+                         txtImporteRetencion.value='';
+                         ddlRetenciones.selectedIndex=0;
+                         //ddlSubTipo.selectedIndex=1;
+                         ddlSubTipo.selectedIndex=0;
+                         txtFechaRetencion.value='';
+                 }       
+         break;  
+         
+         case 2:
+                 if (Page_ClientValidate('efectivosGroup')==true)
+                 {  
+                         var txtImporteEfectivo=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel3_txtImporteEfectivo');
+                         var txtFechaPago=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel3_txtFechaPagoEfectivo');
+//                         var txtCambio=document.getElementById('ctl00_Contentplaceholder1_txtCambio');
+//                         alert(txtCambio);
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[EFECTIVO]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';importe=' +  txtImporteEfectivo.value + ';fechaPago=' + txtFechaPago.value  + ';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();   
+                         txtImporteEfectivo.value='';
+                         txtFechaPago.value='';
+                         
+                        
+                }       
+         break;    
+         
+         case 3:
+                 if (Page_ClientValidate('depositosGroup')==true)
+                 {  
+                         var ddlCuenta=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_cmbCuentasClientes');
+                         var txtSucursal=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_txtSucursalDeposito');
+                         var txtFechaDeposito=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_txtFechaDeposito');
+                         var txtNumComprobante=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_txtNumComprob');                      
+                         var txtImporteDeposito=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel4_txtImporteDeposito');                      
+                         
+                         
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[DEPOSITO]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';cuenta=' +  ddlCuenta.value + ';sucursal=' + txtSucursal.value  + ';fechaDeposito=' + txtFechaDeposito.value + ';importe=' + txtImporteDeposito.value + ';numComprobante=' + txtNumComprobante.value +';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();   
+                         txtSucursal.value='';
+                         txtFechaDeposito.value='';
+                         ddlCuenta.selectedIndex=0;
+                         txtNumComprobante.value='';
+                         txtImporteDeposito.value='';
+                         
+                }       
+         break;         
+         
+          case 4:
+                 if (Page_ClientValidate('transferenciasGroup')==true)
+                 {  
+                         var ddlCuentaCredito=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_cmbCuentaCredito');
+                         var txtCuentaDebito=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_txtCuentaDebito');
+                         var txtFechaTransferencia=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_txtFechaTransferencia');
+                         var txtNumComprobante=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_txtNumComprobTrans');                      
+                         var txtImporteTransferencia=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel5_txtImporteTransferencia');                      
+                         
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[TRANSFERENCIA]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';cuentaCredito=' +  ddlCuentaCredito.value + ';cuentaDebito=' + txtCuentaDebito.value  + ';fechaTransferencia=' + txtFechaTransferencia.value  + ';importe=' + txtImporteTransferencia.value +';numComprobante=' + txtNumComprobante.value  + ';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();   
+                         txtCuentaDebito.value='';
+                         txtFechaTransferencia.value='';
+                         ddlCuentaCredito.selectedIndex=0;
+                         txtNumComprobante.value='';
+                         txtImporteTransferencia.value='';
+
+                }       
+         break;
+         
+            case 5:
+                 if (Page_ClientValidate('otrosPagosGroup')==true)
+                 {  
+                         var ddlTipoPago=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel6_cmbTipoPagoRaro');
+                         var txtFechaPago=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel6_txtFechaPagoRaro');
+                         var txtNumComprobante=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel6_txtNumCompRaro');                      
+                         var txtImporteRaro=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel6_txtImporteRaro');                      
+                         
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[OTROSPAGO]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';tipoPago=' +  ddlTipoPago.value + ';fechaPago=' + txtFechaPago.value  + ';importe=' + txtImporteRaro.value + ';txtNumComprobante=' + txtNumComprobante.value    + ';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ActualizarDiferenciaPagosFacturas();   
+                         txtFechaPago.value='';
+                         txtNumComprobante.value='';
+                         ddlTipoPago.selectedIndex=0;
+                         txtImporteRaro.value='';
+
+                }       
+         break;   
+         
+          case 6:
+                 if (Page_ClientValidate('descuentosGroup')==true)
+                 {  
+                         var ddlConcepto=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel7_cmbDescuentos');
+                         var txtImporte=document.getElementById('ctl00_Contentplaceholder1_TabContainer1_TabPanel7_txtImporteDescuento');
+                           
+                         hdUltimoPagoCargado=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldUltimoPagoCargado');
+                         hdPagosCargados=document.getElementById('ctl00_Contentplaceholder1_HiddenFieldPagosCargados');
+                         tipoPagoC='[DESCUENTO]';
+                         
+                         hdUltimoPagoCargado.value = tipoPagoC + ';importe=' + txtImporte.value +';concepto=' +  ddlConcepto.value + ';@';
+                         hdPagosCargados.value=hdPagosCargados.value + hdUltimoPagoCargado.value;
+                         CargarPagoAGrilla(hdUltimoPagoCargado.value);
+                         ActualizarSumaPagos(ObtenerValorDeAtributo(hdUltimoPagoCargado.value,'importe'));
+                         ddlConcepto.selectedIndex=0;
+                         txtImporte.value='';
+                         ActualizarDiferenciaPagosFacturas();
+                         
+                }       
+         break;               
+
+    }
+}
+
+
+function CargarPagoAGrilla(nuevoPago)
+{
+ var Tabla = document.getElementById('gvResultadosPagosLight');
+ var countRows=Tabla.rows;
+ var lastRow = Tabla.rows.length;
+
+// INSERTAR FILA
+var row = Tabla.insertRow(lastRow);
+row.className="gvItem";
+
+//INSERTAR CELDA
+var cell1 = row.insertCell(0);
+var textNode1 = document.createTextNode(lastRow);
+cell1.appendChild(textNode1);
+
+var cell2 = row.insertCell(1);
+var textNode2 = document.createTextNode(nuevoPago.split(";")[0]);
+cell2.appendChild(textNode2);
+
+var cell3 = row.insertCell(2);
+var chkMoneda = document.getElementById('ctl00_Contentplaceholder1_chkPestreificar');
+var textNode3;
+if (chkMoneda.checked)
+{
+  textNode3 = document.createTextNode('DOLARES');
+}
+else
+{
+  textNode3 = document.createTextNode('PESOS');
+}
+cell3.appendChild(textNode3);
+
+
+var cell4 = row.insertCell(3);
+var textNode4 = document.createTextNode(ObtenerValorDeAtributo(nuevoPago,'importe'));
+cell4.appendChild(textNode4);
+
+var cell5 = row.insertCell(4);
+var textNode5 = document.createTextNode('Eliminar');
+cell5.appendChild(textNode5);
+
+var cell6 = row.insertCell(5);
+var textNode6 = document.createTextNode('Editar');
+cell6.appendChild(textNode6);
+
+}
+
+
+function ObtenerValorDeAtributo(cadena,nombreAtributo)
+{
+var arregloCadena=cadena.split(";");
+
+for (var i = 0; i < arregloCadena.length; i++ )
+{
+
+ if (arregloCadena[i].indexOf(nombreAtributo)!=-1)
+ {
+   var valorAtributo=arregloCadena[i].substring(arregloCadena[i].indexOf("=")+1,arregloCadena[i].length);
+
+    return valorAtributo;
+ }
+ 
+ 
+}
+
+return 0;
+}
+
+function ActualizarSumaPagos(pago)
+{
+  var txtPagos=document.getElementById('ctl00_Contentplaceholder1_txtPagos'); 
+  pago=pago.split(",").join(".");
+  var suma=parseFloat(txtPagos.value.replace(',','.')) + parseFloat(pago);
+  suma=suma.toFixed(4);
+  txtPagos.value=suma.split(".").join(",");
+  return;
+}
+
+function ActualizarDiferenciaPagosFacturas()
+{
+var txtSumaMonLoc = document.getElementById('ctl00_Contentplaceholder1_txtSumaFacturas');
+var txtPagos=document.getElementById('ctl00_Contentplaceholder1_txtPagos'); 
+var DifPe = document.getElementById("ctl00_Contentplaceholder1_txtDiferenciaPe");
+                
+var fDifPe = parseFloat(txtPagos.value.replace(',','.')) - parseFloat(txtSumaMonLoc.value.replace(',','.'));
+DifPe.value = fDifPe.toFixed(4);
+DifPe.value = DifPe.value.replace('.', ',');
+
+}

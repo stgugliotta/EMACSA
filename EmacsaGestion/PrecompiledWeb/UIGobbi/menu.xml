@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	<ul id="menuone" class="menu">
+		<li class="menumain">
+			Inicio
+			<ul>
+				<li action="ViewHome.aspx">Inicio</li>
+			</ul>
+		</li>
+    <li class="menumain">
+      Gerencia
+      <ul>
+        <li action="ViewImportacionDeFacturas.aspx">Importación de Facturas</li>
+        <li action="ViewRedireccion.aspx?route=Route1">Historial de facturas</li>
+        <li action="ViewAsignacionDeAnalista.aspx">Asignar Deudores</li>
+        <li action="ViewProntoPago.aspx">Gestión De Pronto Pago</li>
+      </ul>
+    </li>
+		<li class="menumain">
+			Analistas
+			<ul >
+				<li action="ViewGestionAnalista.aspx">Gestionar facturas</li>
+        <li action="ViewGestionDeDeudores.aspx">Gestionar Deudores</li>
+        <li action="ViewAltaDeudor.aspx">Ingreso de Deudor</li>
+        <li action="ViewImportacionDeDeudores.aspx">Ingreso Masivo de Deudores</li>
+        <li action="ViewRedireccion.aspx?route=Route2">Historial del Deudor</li>
+        <li action="ViewRedireccion.aspx?route=Route1">Historial de facturas</li>
+        <li action="ViewLocalizarRecibo.aspx">Buscar Recibo</li>
+			</ul>
+		</li>
+    <li class="menumain">
+      Logística
+      <ul>
+        <li action="ViewHojaDeRutaAlta.aspx">Nueva Hoja de Ruta</li>
+        <li action="ViewHojaDeRutaEdicion.aspx">Edición de Hoja de Ruta</li>
+        <li action="ViewHojaDeRutaDeudoresSinGestion.aspx">Deudores sin gestión</li>
+        <li action="ViewHojaDeRutaDetalle.aspx">Detalle de Zonas</li>
+        <li action="ViewLocalizarRecibo.aspx">Buscar Recibo</li>
+        <li action="ViewHojaDeRuta.aspx">Gestión De Zonas</li>
+        <li action="ViewHojaDeRuta.aspx">Gestión De Cobradores</li>
+        <li action="ViewGestionCobradores.aspx">Gestión de Recibos</li>
+        <li action="ViewRedireccion.aspx?route=Route3">Localizar Factura</li>
+        <li action="ViewRedireccion.aspx?route=Route4">Gestión de flota</li>
+        <li action="ViewGeneracionDepositosEnExcel.aspx">Prueba Impresion Excel</li>
+        
+      </ul>
+    </li>
+		<li class="menumain">
+			Remision
+			<ul >
+        <br />
+        <br />
+      <li action="ViewRemisionDeValores.aspx">Carga Remisión</li>
+      <li action="ViewRedireccion.aspx?route=Route3">Localizar Factura</li>
+      <li action="ViewLocalizarRecibo.aspx">Buscar Recibo</li>
+ 			</ul>
+		</li>
+	
+		
+		<li class="menumain">
+			Reportes
+			<ul >
+				<li action="ViewReportes.aspx">Ver reportes</li>
+			</ul>
+		</li>
+    <li class="menumain">
+      Administración
+      <ul >
+        <!--<li action="ViewParametrizacionDeUso.aspx">Parametrizaciones de uso</li>-->
+        <li action="ViewParametrizacion.aspx">Parametrizaciones del sistema</li>
+        
+      </ul>
+    </li>
+
+    <!--li class="menumain" style="float:right;">-->
+		<li class="menumain" style="float:right;">
+      Cerrar Sesión
+      <ul >
+        <li action="ViewLogOut.aspx">Cerrar Sesión</li>
+      </ul>
+		</li>
+	</ul>
+</menu>

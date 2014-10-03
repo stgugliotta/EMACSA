@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ERROR_ABSOLUTETIMERANGE" xml:space="preserve">
+    <value>La fecha y hora no puede ser menor a la actual.</value>
+  </data>
+  <data name="ERROR_AUTHORIZATIONFACTORY_INVALIDDEFAULTPROVIDERNAME" xml:space="preserve">
+    <value>No se encuentra el "DefaultAuthorizationProviderName" de Authorization</value>
+  </data>
+  <data name="ERROR_EvaPRINCIPALFACTORY_INVALIDDEFAULTNAME" xml:space="preserve">
+    <value>No se encuentra el "DefaultEvaPrincipalName" de EVA Principal Provider</value>
+  </data>
+  <data name="ERROR_CACHEFACTORY_INVALIDDEFAULTCACHEMANAGERNAME" xml:space="preserve">
+    <value>No se encuentra el "DefaultCacheManagerName" de Caching</value>
+  </data>
+  <data name="ERROR_CONFIGURATIONNOTDEFINED" xml:space="preserve">
+    <value>No se encontró la configuración para '{0}'</value>
+  </data>
+  <data name="ERROR_CONNECTIONSTRINGSETTINGS_NULL" xml:space="preserve">
+    <value>No està definida la connectionStringSettings para "{0}".</value>
+  </data>
+  <data name="ERROR_CONNECTIONSTRINGSSECTION_CONNECTIONSTRING_NULL" xml:space="preserve">
+    <value>La ConnectionString de "{0}" no es válida.</value>
+  </data>
+  <data name="ERROR_CONNECTIONSTRINGSSECTION_NULL" xml:space="preserve">
+    <value>No está definida la sección connectionStrings</value>
+  </data>
+  <data name="ERROR_DATABASEFACTORY_BADCONFIGURATION" xml:space="preserve">
+    <value>La configuración es incorrecta para "{0}".</value>
+  </data>
+  <data name="ERROR_EMPTYPARAMETERNAME" xml:space="preserve">
+    <value>El parámentro no puede ser nulo o cadena vacía.</value>
+  </data>
+  <data name="ERROR_EVENTCUSTOMTRACELISTENER_WRITEFAILURE" xml:space="preserve">
+    <value>Hubo una falla al escribir la entrada de log en "{0}".</value>
+  </data>
+  <data name="ERROR_EXCEPTIONPOLICY_CONFIGURATIONNOTFOUND" xml:space="preserve">
+    <value>No se encuentra la sección de configuración "{0}" para el manejo de excepciones.</value>
+  </data>
+  <data name="ERROR_EXCEPTIONPOLICY_NOTPOLICIESDEFINED" xml:space="preserve">
+    <value>No se encontraron políticas en la configuración.</value>
+  </data>
+  <data name="ERROR_EXCEPTIONPOLICY_POLICYNOTFOUND" xml:space="preserve">
+    <value>No se encontró la política "{0}".</value>
+  </data>
+  <data name="ERROR_EXCEPTIONPOLICYIMPL_NOTHANDLERDEFINED" xml:space="preserve">
+    <value>La política "{0}" no tiene definida acciones para la excepciones del tipo "{1}".</value>
+  </data>
+  <data name="ERROR_EXCEPTIONTYPEIMPL_EXCEPTIONTOTHROWNOTFOUND" xml:space="preserve">
+    <value>Los manejadores de excepción "{0}" no generaron ninguna excepción.</value>
+  </data>
+  <data name="ERROR_EXPIRATIONPOLLTIMER_INVALIDSTOPOPERATION" xml:space="preserve">
+    <value>No puede parar antes si no ha comenzado.</value>
+  </data>
+  <data name="ERROR_EXPIRATIONPOLLTIMER_INVALIDTIME" xml:space="preserve">
+    <value>El tiempo de expiración debe ser por lo menos 1 segundo.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATINVALIDARGUMENTS" xml:space="preserve">
+    <value>El largo del formato es inválido.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATNULLTIMEFORMAT" xml:space="preserve">
+    <value>TimeFormat no puede ser nulo.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATRANGEDAYS" xml:space="preserve">
+    <value>Día de la semana en ExtendedFormat fuera de rango.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATRANGEHOURS" xml:space="preserve">
+    <value>Horas en ExtendedFormat fuera de rango.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATRANGEMINUTES" xml:space="preserve">
+    <value>Minutos en ExtendedFormat fuera de rango.</value>
+  </data>
+  <data name="ERROR_EXTENDEDFORMATRANGEMONTHS" xml:space="preserve">
+    <value>Mes del año en ExtendedFormat fuera de rango.</value>
+  </data>
+  <data name="ERROR_FILECONFIGURATIONSOURCE_FILENAME_NOTSPECIFIEDINCONFIGURATION" xml:space="preserve">
+    <value>No se ha especificado un nombre de archivo de configuración externo.</value>
+  </data>
+  <data name="ERROR_FILECONFIGURATIONSOURCE_FILENOTFOUND" xml:space="preserve">
+    <value>No se ha encontrado el archivo de configuración externo "{0}".</value>
+  </data>
+  <data name="ERROR_GENERICDATABASE_INVALIDCOMMANDS" xml:space="preserve">
+    <value>No todos los objetos DbCommands son válidos.</value>
+  </data>
+  <data name="ERROR_GENERICDATABASE_TABLENAMEARRAYEMPTY" xml:space="preserve">
+    <value>El parámetro "{0}" no contiene ningún nombre de tabla.</value>
+  </data>
+  <data name="ERROR_GENERICDATABASE_TABLENAMENULLOREMPTY" xml:space="preserve">
+    <value>El valor no puede ser nulo o cadena vacía.</value>
+  </data>
+  <data name="ERROR_INVALIDFILENAME" xml:space="preserve">
+    <value>El archivo "{0}" no no existe.</value>
+  </data>
+  <data name="ERROR_LOGENTRY_INTRINSICPPROPERTYNOUNMANAGEDCODEPERMISSION" xml:space="preserve">
+    <value>No hay permiso para Permission para UnmanagedCode.</value>
+  </data>
+  <data name="ERROR_LOGENTRY_INTRINSICPROPERTY" xml:space="preserve">
+    <value>No se pudo leer la propiedad intrínsica. mensaje: {0}</value>
+  </data>
+  <data name="ERROR_LOGGINGLOGSOURCEFACTORY_CONFIGURATIONLOGSOURCENOTFOUND" xml:space="preserve">
+    <value>No se encontró la configuración del categorySources  "{0}"</value>
+  </data>
+  <data name="ERROR_LOGINFILTERFACTORY_CONFIGURATIONFILTERNOTFOUND" xml:space="preserve">
+    <value>No se encontró la configuración del filtro "{0}"</value>
+  </data>
+  <data name="ERROR_LOGINFILTERFACTORY_CONFIGURATIONNOTFOUND" xml:space="preserve">
+    <value>Falta la sección de configuración.</value>
+  </data>
+  <data name="ERROR_LOGINLISTENERFACTORY_CONFIGURATIONLISTENERNOTFOUND" xml:space="preserve">
+    <value>No se encontró la configuración del listener "{0}"</value>
+  </data>
+  <data name="ERROR_NULLFILENAME" xml:space="preserve">
+    <value>El nombre de archivo no puede ser nulo.</value>
+  </data>
+  <data name="ERROR_REALCACHE_NOTINITIALIZED" xml:space="preserve">
+    <value>No se ha inicializado la instancia de cache.</value>
+  </data>
+  <data name="ERROR_SQLCACHEMANAGER_NULLPARAMETER" xml:space="preserve">
+    <value>No se especificó el parámetro "{0}" a usar por el "SQLCacheManager".</value>
+  </data>
+  <data name="ERROR_SQLCONFIGURATIONSOURCE_CATALOGNAMENOTFOUND" xml:space="preserve">
+    <value>No se encuentra el catálogo con el nombre "{0}". Verifique las cadenas de conexiones en el archivo de configuración.</value>
+  </data>
+  <data name="ERROR_SQLCONFIGURATIONSOURCE_CATALOGNAMENOTSPECIFIED" xml:space="preserve">
+    <value>No se ha especificado el nombre del catálogo externo.</value>
+  </data>
+  <data name="ERROR_SQLCUSTOMTRACELISTENER_INVALIDCONFIGURATION" xml:space="preserve">
+    <value>La configuración es incorrecta, se esperaba "connStringName".</value>
+  </data>
+  <data name="ERROR_SQLDATABASE_NOTSQLCOMMAND" xml:space="preserve">
+    <value>El comando debe ser SQLCommand.</value>
+  </data>
+  <data name="EVENTLOGEENTRYEXCEPTIONTEMPLATE" xml:space="preserve">
+    <value>La exception arrojada fue: {0}</value>
+  </data>
+  <data name="EVENTLOGENTRYHEADERTEMPLATE" xml:space="preserve">
+    <value>ha ocurrido un error en la aplicación {0} en el {1}.</value>
+  </data>
+  <data name="LOG_ACTIVITYID" xml:space="preserve">
+    <value>Identificador de la actIvidad</value>
+  </data>
+  <data name="LOG_APPDOMAIN" xml:space="preserve">
+    <value>Dominio de aplicación</value>
+  </data>
+  <data name="LOG_CATEGORIES" xml:space="preserve">
+    <value>Nombre de las categorías</value>
+  </data>
+  <data name="LOG_ERRORMESSAGES" xml:space="preserve">
+    <value>Mensajes de error</value>
+  </data>
+  <data name="LOG_EVENTID" xml:space="preserve">
+    <value>Identificador del evento</value>
+  </data>
+  <data name="LOG_EXTENDEDPROPERTIES" xml:space="preserve">
+    <value>Propiedades Extendidas</value>
+  </data>
+  <data name="LOG_MACHINENAME" xml:space="preserve">
+    <value>Nombre del equipo</value>
+  </data>
+  <data name="LOG_MANAGERTHREADNAME" xml:space="preserve">
+    <value>Nombre del hilo de ejecución .NET</value>
+  </data>
+  <data name="LOG_MESSAGE" xml:space="preserve">
+    <value>Cuerpo del mensaje</value>
+  </data>
+  <data name="LOG_PRIORITY" xml:space="preserve">
+    <value>Prioridad</value>
+  </data>
+  <data name="LOG_PROCESSID" xml:space="preserve">
+    <value>Identificador de proceso.</value>
+  </data>
+  <data name="LOG_PROCESSNAME" xml:space="preserve">
+    <value>Nombre del proceso</value>
+  </data>
+  <data name="LOG_RELATEDACTIVITYID" xml:space="preserve">
+    <value>Identificador de la actividad relacionada</value>
+  </data>
+  <data name="LOG_SEVERITY" xml:space="preserve">
+    <value>Tipo de evento</value>
+  </data>
+  <data name="LOG_TIMESTAMP" xml:space="preserve">
+    <value>Fecha y hora</value>
+  </data>
+  <data name="LOG_TITLE" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="LOG_WIN32THREADID" xml:space="preserve">
+    <value>Identificador del proceso Win32</value>
+  </data>
+  <data name="TRACER_ENDMESSAGEFORMAT" xml:space="preserve">
+    <value>Fin de traza: Actividad '{0}' en método '{1}' </value>
+  </data>
+  <data name="TRACER_STARTMESSAGEFORMAT" xml:space="preserve">
+    <value>Comienzo de traza: Actividad '{0}' en método '{1}'</value>
+  </data>
+  <data name="ERROR_AUTHENTICATORFACTORY_INVALIDDEFAULTCACHEMANAGERNAME" xml:space="preserve">
+    <value>Error en la definición del AuthenticationManager por defecto</value>
+  </data>
+</root>

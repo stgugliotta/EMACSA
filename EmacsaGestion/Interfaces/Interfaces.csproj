@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77BB72F8-B3E7-420C-82A5-66B5019C8DEA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interfaces</RootNamespace>
+    <AssemblyName>Interfaces</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigurationInterfaz.cs" />
+    <Compile Include="ConfigurationLoader.cs" />
+    <Compile Include="DeudorDTO.cs" />
+    <Compile Include="FacturaDTO.cs" />
+    <Compile Include="ImportadorInterfaces.cs">
+    </Compile>
+    <Compile Include="Parsers\AveryFacturaParser.cs" />
+    <Compile Include="Parsers\ABBFacturaParser.cs" />
+    <Compile Include="Parsers\ABBV2FacturaParser.cs" />
+    <Compile Include="Parsers\ProductosAveryFacturaParser.cs" />
+    <Compile Include="Parsers\VitopelFacturaTextPlainParser.cs" />
+    <Compile Include="Parsers\MasisaFacturaParser.cs" />
+    <Compile Include="Parsers\ServierFacturaParser.cs" />
+    <Compile Include="Parsers\DimagrafFacturaParser.cs" />
+    <Compile Include="Parsers\PutrueleV2FacturaParser.cs" />
+    <Compile Include="Parsers\VitopelFacturaParser.cs" />
+    <Compile Include="Parsers\DefaultFacturaParser.cs" />
+    <Compile Include="Parsers\FacturaOledbExcelParser.cs" />
+    <Compile Include="Parsers\PutrueleFacturaParser.cs" />
+    <Compile Include="Parsers\DellepianeSanLuisFacturaParser.cs" />
+    <Compile Include="Parsers\DeudorSinGestionExcelParser.cs" />
+    <Compile Include="Parsers\DeudorExcelParser.cs" />
+    <Compile Include="Parsers\SondaFacturaParser.cs" />
+    <Compile Include="Parsers\StymFacturaParser.cs" />
+    <Compile Include="Parsers\OcasaFacturaParser.cs" />
+    <Compile Include="Parsers\FacturaExcelParser.cs" />
+    <Compile Include="Parsers\Parser.cs" />
+    <Compile Include="Parsers\SigmaFacturaParser.cs" />
+    <Compile Include="Parsers\TycoFacturaParser.cs" />
+    <Compile Include="Parsers\FacturaParserBuilder.cs" />
+    <Compile Include="Parsers\FacturaTextPlainParser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Configuration.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameWork\CoreServices\CoreServices.csproj">
+      <Project>{951D4CED-FAFF-4969-9A68-3F6EEF83DB61}</Project>
+      <Name>CoreServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FrameWork\Services\Services.csproj">
+      <Project>{B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{5FCAAD62-F987-4B50-BCE3-1F1916C4FD99}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GoogleMaps\GoogleMaps.csproj">
+      <Project>{2F1521E3-D434-498C-ADC4-91A9D0867A2F}</Project>
+      <Name>GoogleMaps</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Herramientas\Herramientas.csproj">
+      <Project>{FB3E05BC-F762-4F5B-89AC-06A4AD2DA3D2}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

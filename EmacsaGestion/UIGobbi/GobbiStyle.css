@@ -1,0 +1,342 @@
+﻿.evaHeader
+{
+	padding: 0px; 
+	margin: 0px; 
+	background-image: url('../Images/FondoCelesteEVA.gif'); 
+	background-repeat: repeat; 
+	border-bottom: solid 1px black;
+	text-align: left;
+}
+
+.evaFooter
+{
+	font: normal bold 8pt 'Verdana';
+	color: #FFFFFF; 
+	background-image: url('../Images/FondoAzulTeco.gif'); 
+	background-repeat: repeat; 
+	padding: 0px;
+	margin: 0px;
+} 
+
+.textochiconegro 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: Black;
+}
+
+.textomaschiconegro 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: Black;
+	font: xx-small/1;
+	font-size: 9px;
+}
+
+.line 
+{
+	border-bottom: 1px solid #999999;
+	font: normal normal xx-small Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.whiteTitle a:link 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: none; 
+	padding-right: 5px;
+}
+
+.whiteTitle a:visited 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: none; 
+	padding-right: 5px;
+}
+
+.whiteTitle a:hover 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: underline; 
+	padding-right: 5px;
+}
+
+.whiteTitle 
+{
+	color: white;
+	font-size: 9pt; 
+	font-weight: bold;
+	font-family: verdana; 
+}
+
+.smallTitle 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: #00016C;
+	font-size: 10px;
+	font: normal bold;
+}
+
+.helpText 
+{
+	background-color : #ffffe0;
+	padding-left : 2.5px;
+	padding-top : 2.5px;
+	padding-right : 2.5px;
+	padding-bottom : 2.5px;
+	border-top : 1px dotted #ccccdd;
+	border-left : 1px dotted #ccccdd;
+	border-right : 1px dotted #ccccdd;
+	border-bottom : 1px dotted #ccccdd;
+	font-size: 10px;
+	font-family: Verdana;
+	border-style : solid;
+}
+
+.headerText 
+{
+	font-family: Verdana;
+	font-size: 10px;
+	color: #949494;
+}
+
+.title 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.subtitle 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: Gray;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.gvHeader
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+    height:20px;
+    background-repeat:repeat-x;
+}
+
+.gvHeader a:link
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.gvHeader a:visited
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.gvHeader a:hover
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#000000;
+	text-decoration:none;
+}
+
+.blueGvHeader
+{
+    background-image:url(../Images/headerBlue.gif);
+	background-color:#4985AE;
+}
+
+.blueGvHeader th
+{
+    border: solid 1px #3C6B8C;
+}
+
+.greenGvHeader
+{
+    background-image:url(../Images/headerGreen.gif);
+	background-color:#57AF4B;
+}
+
+.greenGvHeader th
+{
+    border: solid 1px #458C3C;
+}
+
+.grayGvHeader
+{
+    background-image:url(../Images/headerGray.gif);
+	background-color:#828282;
+}
+
+.grayGvHeader th
+{
+    border: solid 1px #646464;
+}
+
+.gvItem
+{
+	
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #FAFAFA;
+}
+.gvItemWithBorder
+{
+	
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #FAFAFA;
+	 border-style:solid;
+	 border-width:thin;
+	 border-color:Gray;
+}
+.gvAlternatingItem
+{
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+.button
+{
+	background-color: #FFFFFF;
+	border: solid 1px #DDDDDD;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #666666;
+	height: 23px;
+}
+
+.buttonOver
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 23px;
+}
+
+.buttonDisabled
+{
+	background-color: #FFFFFF;
+	border: solid 1px #E5E5E5;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #DDDDDD;
+	height: 23px;
+}
+
+.label
+{
+	font-family: Verdana;
+	font-size: 9px;
+	vertical-align: top;
+	position: relative;
+	top: 119px;
+	left: -205px;
+	width: 167px;
+}
+.bigLabel
+{
+	font-family: Verdana;
+	font-size: 13px;
+	vertical-align: top;
+	position: relative;
+	top: 4px;
+}
+
+.labelBold
+{
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: bold;
+	vertical-align: middle;
+	color:Black;
+	
+}
+.labelBold2
+{
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: bold;
+	vertical-align: middle;
+	color:Red;
+}
+
+.textbox
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 13px;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+.combo
+{
+	background-color: #FFFFFF;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 14px;
+}
+
+.inputFile
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 18px;
+	padding-top: 2px;
+}
+
+.panel
+{
+	border: solid 1px #DDDDDD;
+	padding: 10px;
+}
+
+.radioButton
+{
+	font-family: Verdana;
+	font-size: 9px;
+}

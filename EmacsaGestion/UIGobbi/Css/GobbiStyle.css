@@ -1,0 +1,556 @@
+﻿.evaHeader
+{
+	padding: 0px; 
+	margin: 0px; 
+	background-image: url('../Images/FondoCelesteEVA.gif'); 
+	background-repeat: repeat; 
+	border-bottom: solid 1px black;
+	text-align: left;
+}
+
+.evaFooter
+{
+	font: normal bold 8pt 'Verdana';
+	color: #FFFFFF; 
+	background-image: url('../Images/FondoAzulTeco.gif'); 
+	background-repeat: repeat; 
+	padding: 0px;
+	margin: 0px;
+} 
+
+.textochiconegro 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: Black;
+}
+
+.textomaschiconegro 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: Black;
+	font: xx-small/1;
+	font-size: 9px;
+}
+
+.line 
+{
+	border-bottom: 1px solid #999999;
+	font: normal normal xx-small Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.whiteTitle a:link 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: none; 
+	padding-right: 5px;
+}
+
+.whiteTitle a:visited 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: none; 
+	padding-right: 5px;
+}
+
+.whiteTitle a:hover 
+{
+	font-family: verdana; 
+	font-size: 8pt; 
+	color: White;
+	font-weight: bold; 
+	text-decoration: underline; 
+	padding-right: 5px;
+}
+
+.whiteTitle 
+{
+	color: white;
+	font-size: 9pt; 
+	font-weight: bold;
+	font-family: verdana; 
+}
+
+.smallTitle 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: #00016C;
+	font-size: 10px;
+	font: normal bold;
+}
+
+.helpText 
+{
+	background-color : #ffffe0;
+	padding-left : 2.5px;
+	padding-top : 2.5px;
+	padding-right : 2.5px;
+	padding-bottom : 2.5px;
+	border-top : 1px dotted #ccccdd;
+	border-left : 1px dotted #ccccdd;
+	border-right : 1px dotted #ccccdd;
+	border-bottom : 1px dotted #ccccdd;
+	font-size: 10px;
+	font-family: Verdana;
+	border-style : solid;
+}
+
+.headerText 
+{
+	font-family: Verdana;
+	font-size: 10px;
+	color: #949494;
+}
+
+.title 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.subtitle 
+{
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	color: Gray;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.gvHeader
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+    height:20px;
+    background-repeat:repeat-x;
+}
+
+.gvHeader a:link
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.gvHeader a:visited
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.gvHeader a:hover
+{
+	font-size:9px;
+	font-family:'Verdana';
+	font-weight:normal;
+	color:#000000;
+	text-decoration:none;
+}
+
+.blueGvHeader
+{
+    background-image:url(../Images/headerBlue.gif);
+	background-color:#4985AE;
+}
+
+.blueGvHeader th
+{
+    border: solid 1px #3C6B8C;
+}
+
+.greenGvHeader
+{
+    background-image:url(../Images/headerGreen.gif);
+	background-color:#57AF4B;
+}
+
+.greenGvHeader th
+{
+    border: solid 1px #458C3C;
+}
+
+.grayGvHeader
+{
+    background-image:url(../Images/headerGray.gif);
+	background-color:#828282;
+}
+
+.grayGvHeader th
+{
+    border: solid 1px #646464;
+}
+
+.gvItem
+{
+	
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #FAFAFA;
+	
+}
+
+.gvItemWithBorder
+{
+	
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #FAFAFA;
+	 border-style:solid;
+	 border-width:thin;
+	 border-color:Gray;
+}
+
+
+.gvAlternatingItem
+{
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 11px; 
+	color: #666666; 
+	text-indent: 1px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+
+.button
+{
+	background-color: #FFFFFF;
+	border: solid 1px #DDDDDD;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #666666;
+	height: 23px;
+}
+
+.buttonOver
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 23px;
+}
+
+.buttonDisabled
+{
+	background-color: #FFFFFF;
+	border: solid 1px #E5E5E5;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #DDDDDD;
+	height: 23px;
+}
+
+.label
+{
+	font-family: Verdana;
+	font-size: 9px;
+	vertical-align: top;
+	position: relative;
+	top: 119px;
+	left: -205px;
+	width: 167px;
+}
+.bigLabel
+{
+	font-family: Verdana;
+	font-size: 13px;
+	vertical-align: top;
+	position: relative;
+	top: 4px;
+}
+
+.bigLabelAvailable
+{
+	font-family: Verdana;
+	font-size: 18px;
+	vertical-align: top;
+	position: relative;
+	top: 4px;
+}
+
+.bigLabelTahoma
+{
+	font-family: Tahoma, Arial, MS Sans Serif;
+	font-size: 13px;
+	vertical-align: top;
+	position: relative;
+	top: 4px;
+}
+
+.bigLabelBold
+{
+	font-family: Tahoma, Arial, MS Sans Serif;
+	font-weight:bold;
+	font-size: 13px;
+	vertical-align: top;
+	position: relative;
+	font-weight: bold;
+	top: 4px;
+}
+
+
+.labelBold
+{
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: bold;
+	vertical-align: middle;
+	color:Black;
+}
+
+.labelBold2
+{
+	font-family: Tahoma, Arial, MS Sans Serif;
+	font-size: 9px;
+	font-weight: bold;
+	vertical-align: middle;
+	color:Red;
+}
+.textbox
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 13px;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+.combo
+{
+	background-color: #FFFFFF;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 14px;
+}
+
+.inputFile
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #000000;
+	height: 18px;
+	padding-top: 2px;
+}
+
+.panel
+{
+	border: solid 1px #DDDDDD;
+	padding: 10px;
+}
+
+.radioButton
+{
+	font-family: Verdana;
+	font-size: 9px;
+}
+
+.demoarea p 
+{
+	padding:5px;
+}
+
+.demoheading {
+	padding-bottom:20px;
+	color:#5377A9;
+	font-family:Arial, Sans-Serif;
+	font-weight:bold;
+	font-size:1.5em;
+}
+
+.demobottom {
+	height:8px;
+	background:#FFF url(images/demobottom.png) no-repeat left bottom;
+}
+
+.demoarea {
+	padding:20px;
+	background:#FFF url(images/demotop.png) no-repeat left top;
+}
+
+
+.heading {
+	padding: 1em 0 1em 0;
+	color:#5377A9;
+	font-family:Arial, Sans-Serif;
+	font-weight:bold;
+	font-size:1.2em;
+}
+
+.subheading{
+	padding:.8em 0 0.5em 0;
+	color:#0F2543;
+	font-weight:bold;
+	font-family:Arial, Sans-Serif;
+	font-size:1.1em;
+}
+
+.header,.selected {width: 300px;background-color: #c0c0c0;margin-bottom:2px;padding:2px;color:#444444;font-weight:bold;cursor:pointer;}.content {width:300px;margin-bottom:2px;padding:2px;}.selected,.content {border:solid 1px #666666;}
+
+.LblFormLeftSmall
+{
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 10px;
+	color: #666666;
+	font-weight: bold;
+	background-color: #EDEBEB;
+	text-align: left;
+	padding-bottom:3px;
+	width: 557px;
+}
+.LblFormRightSmall
+{
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 10px;
+	color: #666666;
+	font-weight: bold;
+	background-color: #EDEBEB;
+	text-align: right;
+}
+.LblFormSmall
+{
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 10px;
+	color: #666666;
+	font-weight: bold;
+	background-color: #EDEBEB;
+	padding-bottom:0px;
+}
+.LblFormRight
+{
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+	background-color: #EDEBEB;
+	border-right: #cccccc 2px solid;
+	border-bottom: #cccccc 1px inset;
+	padding:4px;
+	text-align: right;
+}
+.FiTitulo
+{
+	padding: 0px; 
+	background-image: url('~/Images/fdo_barra_tile.gif'); 
+	background-repeat: repeat-x;
+	text-align: left;
+	font-family: Verdana, Geneva, verdana, Helvetica, sans-serif; 
+	font-size:12px;
+	font-weight:bold;
+	height:25px;
+	color: #00016C;
+}
+.comboEditor
+{
+      background-color: #FFFFCC;
+      border: solid 1px #B9B9B9;
+      font-family: Tahoma, Arial, MS Sans Serif;
+      font-size: 9px;
+      color: #666666;
+      height: 16px;
+	margin-left: 0px;
+}
+
+.comboEditor2
+{
+      background-color: #FFFFCC;
+      border: solid 1px #B9B9B9;
+      font-family: Tahoma, Arial, MS Sans Serif;
+      font-size: 11px;
+      color: #666666;
+      height: 16px;
+	margin-left: 0px;
+}
+
+.comboReadOlny
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #666666;
+	height: 14px;
+}
+.comboReadOlny2
+{
+	background-color: #E2E2E2;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #666666;
+	height: 14px;
+}
+.combo
+{
+	background-color: #FFFFFF;
+	border: solid 1px #B9B9B9;
+	font-family: Verdana;
+	font-size: 9px;
+	color: #666666;
+	height: 14px;
+}
+
+
+.contModulo {
+	padding: 15px;
+	margin: 0px;
+	border: 1px solid #E5E5E5;
+	background-color: #FFFFFF;
+	background-image: url(../images/i_BG.gif);
+	background-repeat: repeat-x;
+	font-size: 11px;
+	color: #5B6F7E;
+}
+
+.contTxtDest {
+	font-size: 12px;
+	color: #2F5C8E;
+	font-weight: bold;
+}
+
+.hrdot {
+	height: 1px !important;
+	background-image: url(../images/hr_dot.gif);
+	margin: 10px 0px 10px 0px;
+}
+
+.topTxt {
+	height: 40px;
+	padding: 0px 5px 0px 15px;
+	background-image: url(../images/fdo_tile.gif);
+	font-size: 11px;
+	color: #2F5C8E;
+	font-weight: bolder;
+	font-family: Arial;
+}
+

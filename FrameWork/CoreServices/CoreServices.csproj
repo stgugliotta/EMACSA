@@ -1,0 +1,273 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{951D4CED-FAFF-4969-9A68-3F6EEF83DB61}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ar.com.telecom.eva.CoreServices</RootNamespace>
+    <AssemblyName>CoreServices</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\CoreServices.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Caching\BackingStorages\BaseBackingStore.cs" />
+    <Compile Include="Caching\BackingStorages\DataBackingStore.cs" />
+    <Compile Include="Caching\BackingStorages\IBackingStore.cs" />
+    <Compile Include="Caching\BackingStorages\NullBackingStorage.cs" />
+    <Compile Include="Caching\CacheFactory.cs" />
+    <Compile Include="Caching\CacheItem.cs" />
+    <Compile Include="Caching\CacheItemExpirations\AbsoluteTime.cs" />
+    <Compile Include="Caching\CacheItemExpirations\ExtendedFormat.cs" />
+    <Compile Include="Caching\CacheItemExpirations\ExtendedFormatTime.cs" />
+    <Compile Include="Caching\CacheItemExpirations\FileDependency.cs" />
+    <Compile Include="Caching\CacheItemExpirations\ICacheItemExpiration.cs" />
+    <Compile Include="Caching\CacheItemExpirations\NeverExpired.cs" />
+    <Compile Include="Caching\CacheItemPriority.cs" />
+    <Compile Include="Caching\CacheManagers\CacheManager.cs" />
+    <Compile Include="Caching\CacheManagers\ICacheManager.cs" />
+    <Compile Include="Caching\CacheManagers\InMemoryCacheManager.cs" />
+    <Compile Include="Caching\CacheManagers\RealCache.cs" />
+    <Compile Include="Caching\CacheManagers\SQLCacheManager.cs" />
+    <Compile Include="Caching\Configuration\CacheManagerConfiguration.cs" />
+    <Compile Include="Caching\Configuration\CachingConfigurationSection.cs" />
+    <Compile Include="Caching\Constants.cs" />
+    <Compile Include="Caching\Instrumentation\CachingPerformanceCountersManager.cs" />
+    <Compile Include="Caching\Instrumentation\InstrumentationProvider.cs" />
+    <Compile Include="Caching\Scavenging\BackgroundScavenger.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\CacheCapacityScavengingPolicy.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ExpirationPollTimer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ExpirationTask.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ExpirationTimeoutExpiredMsg.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ICacheScavenger.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\IQueueMessage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\PriorityDateComparer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ProducerConsumerQueue.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\ScavengerTask.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\Scavenging\StartScavengingMsg.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Caching\SerializationUtility.cs" />
+    <Compile Include="Context\GobbiContext.cs" />
+    <Compile Include="Context\EvaContext.cs" />
+    <Compile Include="Common\Instrumentation\Constants.cs" />
+    <Compile Include="Common\Instrumentation\InstrumentationInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Instrumentation\PerformanceCounterManager.cs" />
+    <Compile Include="Configuration\ConfigurableObjectFactory.cs" />
+    <Compile Include="Configuration\ConfigurationManager.cs" />
+    <Compile Include="Configuration\ConfigurationNamedElement.cs" />
+    <Compile Include="Configuration\ConfigurationSourceElement.cs" />
+    <Compile Include="Configuration\ConfigurationSourcesSection.cs" />
+    <Compile Include="Configuration\Constants.cs" />
+    <Compile Include="Configuration\DynamicConfigurationElement.cs" />
+    <Compile Include="Configuration\Exceptions\EvaConfigurationException.cs" />
+    <Compile Include="Configuration\GenericConfigurationElementCollection.cs" />
+    <Compile Include="Configuration\IConfigurable.cs" />
+    <Compile Include="Configuration\IConfigurationSource.cs" />
+    <Compile Include="Configuration\SerializableConfigurationSection.cs" />
+    <Compile Include="Configuration\Storage\FileConfigurationSource.cs" />
+    <Compile Include="Configuration\Storage\SQLConfigurationSource.cs" />
+    <Compile Include="Configuration\SystemConfigurationManager.cs" />
+    <Compile Include="Data\Configuration\DataConfigurationElement.cs" />
+    <Compile Include="Data\Configuration\DataConfigurationSection.cs" />
+    <Compile Include="Data\ConnectionString.cs" />
+    <Compile Include="Data\Constants.cs" />
+    <Compile Include="Data\Database.cs" />
+    <Compile Include="Data\DatabaseFactory.cs" />
+    <Compile Include="Data\Databases\GenericDatabase.cs" />
+    <Compile Include="Data\Databases\HostDatabase.cs" />
+    <Compile Include="Data\Databases\SQLDatabase.cs" />
+    <Compile Include="Data\DbConnectionWrapper.cs" />
+    <Compile Include="Data\Instrumentation\DataPerformanceCountersManager.cs" />
+    <Compile Include="Data\Instrumentation\InstrumentationProvider.cs" />
+    <Compile Include="Data\TransactionScopeConnections.cs" />
+    <Compile Include="ExceptionHandling\Configuration\ExceptionHandlerConfiguration.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Configuration\ExceptionHandlingConfigurationSection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Configuration\ExceptionPolicyConfiguration.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Configuration\ExceptionTypeConfiguration.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Constants.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\EvaException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\EvaFunctionalException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\EvaTechnicalException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\ExceptionPolicy.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\ExceptionPolicyImpl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\ExceptionTypeImpl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Handlers\IExceptionHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Handlers\LoggingExceptionHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Handlers\ReplaceExceptionHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Handlers\WrapExceptionHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Instrumentation\ExceptionHandlingPerformanceCounterManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\Instrumentation\InstrumentationProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExceptionHandling\PostHandlingAction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Logging\Configuration\FilterConfigurationElement.cs" />
+    <Compile Include="Logging\Configuration\ListenerConfigurationElement.cs" />
+    <Compile Include="Logging\Configuration\LoggingConfigurationSection.cs" />
+    <Compile Include="Logging\Configuration\LogSurceConfigurationElement.cs" />
+    <Compile Include="Logging\Constants.cs" />
+    <Compile Include="Logging\Filters\CommonFilterData.cs" />
+    <Compile Include="Logging\Filters\CommonLogFilter.cs" />
+    <Compile Include="Logging\Filters\FilterFactory.cs" />
+    <Compile Include="Logging\Filters\FilterHelper.cs" />
+    <Compile Include="Logging\Filters\ILogFilter.cs" />
+    <Compile Include="Logging\Filters\LogFilter.cs" />
+    <Compile Include="Logging\Instrumentation\InstrumentationProvider.cs" />
+    <Compile Include="Logging\Instrumentation\LoggingPerformanceCounterManager.cs" />
+    <Compile Include="Logging\Listeners\Constants.cs" />
+    <Compile Include="Logging\Listeners\CustomTraceListener.cs" />
+    <Compile Include="Logging\Listeners\EventCustomTraceListener.cs" />
+    <Compile Include="Logging\Listeners\ListenerFactory.cs" />
+    <Compile Include="Logging\Listeners\SQLCustomTraceListener.cs" />
+    <Compile Include="Logging\Listeners\XmlFileCustomTraceListener.cs" />
+    <Compile Include="Logging\LogEntry.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="Logging\LogSource.cs" />
+    <Compile Include="Logging\LogSourceFactory.cs" />
+    <Compile Include="Logging\NativeMethods.cs" />
+    <Compile Include="Logging\SerializableDictionary.cs" />
+    <Compile Include="Logging\Tracer.cs" />
+    <Compile Include="Resources\Resources.Designer.cs" />
+    <Compile Include="Security\Authentication\ActiveDirectoryAuthenticationProvider.cs" />
+    <Compile Include="Security\Authentication\AuthenticationConfigurationSection.cs" />
+    <Compile Include="Security\Authentication\AuthenticationManagerConfiguration.cs" />
+    <Compile Include="Security\Authentication\AuthenticationProviderFactory.cs" />
+    <Compile Include="Security\Authentication\EmacsaAuthenticationProvider.cs" />
+    <Compile Include="Security\Authentication\IAuthenticationProvider.cs" />
+    <Compile Include="Security\Authentication\LDAPAuthenticationProvider.cs" />
+    <Compile Include="Security\Authentication\MOCAuthenticationProvider.cs" />
+    <Compile Include="Security\Authorization\AuthorizationConfigurationSection.cs" />
+    <Compile Include="Security\Authorization\AuthorizationManagerConfiguration.cs" />
+    <Compile Include="Security\Authorization\AuthorizationProviderFactory.cs" />
+    <Compile Include="Security\Authorization\GobbiResource.cs" />
+    <Compile Include="Security\Authorization\GobbiDatabaseAuthorizationProvider.cs" />
+    <Compile Include="Security\Authorization\EvaDatabaseAuthorizationProvider.cs" />
+    <Compile Include="Security\Module\EvaModule.cs" />
+    <Compile Include="Security\Module\ModuleStatus.cs" />
+    <Compile Include="Security\Module\ModuleStatusFactory.cs" />
+    <Compile Include="Security\Principal\GobbiIdentity.cs" />
+    <Compile Include="Security\Principal\GobbiPrincipal.cs" />
+    <Compile Include="Security\Role\EvaDatabaseRoleProvider.cs" />
+    <Compile Include="Security\Authorization\EvaResource.cs" />
+    <Compile Include="Security\Authorization\IAuthorizationProvider.cs" />
+    <Compile Include="Security\Constants.cs" />
+    <Compile Include="Security\Principal\EvaIdentity.cs" />
+    <Compile Include="Security\Principal\EvaPrincipal.cs" />
+    <Compile Include="Security\Role\IRoleProvider.cs" />
+    <Compile Include="Security\Role\RoleConfigurationSection.cs" />
+    <Compile Include="Security\Role\RoleManagerConfiguration.cs" />
+    <Compile Include="Security\Role\RoleProviderFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Configuration\Configuration.cd" />
+    <None Include="Key\Key.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

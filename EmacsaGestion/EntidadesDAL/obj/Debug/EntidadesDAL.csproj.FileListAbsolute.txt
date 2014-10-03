@@ -1,0 +1,186 @@
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.xml
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Entidades.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EvaWebControls.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Herramientas.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\office.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Entidades.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Herramientas.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.pdb
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.xml
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+D:\Netares\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi 11022010\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+D:\Netares\EmacsaSVN\Gobbi 11022010\Gobbi 11022010\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Gobbi\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\office.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\office.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.xml
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EntidadesDAL.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Common.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\EvaWebControls.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\office.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Common.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Services.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Entidades.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\Herramientas.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.pdb
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\bin\Debug\CoreServices.xml
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.dll
+C:\Gaston\Emacsa\EmacsaGestion\EntidadesDAL\obj\Debug\EntidadesDAL.pdb

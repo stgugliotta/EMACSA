@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Factura tableName="INT_Factura">
+		<Cliente id="57" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.AveryFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="10" len="8"/>
+				<property name="id_tipo_comprobante" from="50" len="2"/>
+				<property name="letra" from="52" len="1"/>
+				<property name="emision" from="53" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="57" len="8"/>
+				<property name="importe" from="65" len="15"/>
+				<property name="id_moneda" default="PE"/>
+				<!--GFSB: La moneda siempre es Pesos-->
+				<property name="fecha_emision" from="26" len="8"/>
+				<property name="fecha_vencimiento" from="34" len="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="58" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.AveryFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="10" len="8"/>
+				<property name="id_tipo_comprobante" from="50" len="2"/>
+				<property name="letra" from="52" len="1"/>
+				<property name="emision" from="53" len="4"/> <!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="57" len="8"/>
+				<property name="importe" from="65" len="15"/>
+				<property name="id_moneda" default="PE"/> <!--GFSB: La moneda siempre es Pesos-->
+				<property name="fecha_emision" from="26" len="8"/>
+				<property name="fecha_vencimiento" from="34" len="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="59" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.AveryFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="10" len="8"/>
+				<property name="id_tipo_comprobante" from="50" len="2"/>
+				<property name="letra" from="52" len="1"/>
+				<property name="emision" from="53" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="57" len="8"/>
+				<property name="importe" from="65" len="15"/>
+				<property name="id_moneda" default="PE"/>
+				<property name="fecha_emision" from="26" len="8"/>
+				<property name="fecha_vencimiento" from="34" len="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="60" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.AveryFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="10" len="8"/>
+				<property name="id_tipo_comprobante" from="50" len="2"/>
+				<property name="letra" from="52" len="1"/>
+				<property name="emision" from="53" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="57" len="8"/>
+				<property name="importe" from="65" len="15"/>
+				<property name="id_moneda" default="PE"/>
+				<property name="fecha_emision" from="26" len="8"/>
+				<property name="fecha_vencimiento" from="34" len="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="61" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.AveryFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="10" len="8"/>
+				<property name="id_tipo_comprobante" from="50" len="2"/>
+				<property name="letra" from="52" len="1"/>
+				<property name="emision" from="53" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="57" len="8"/>
+				<property name="importe" from="65" len="15"/>
+				<property name="id_moneda" default="PE"/>
+				<property name="fecha_emision" from="26" len="8"/>
+				<property name="fecha_vencimiento" from="34" len="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="11" contentType="text/plain;application/octet-stream" parser="Interfaces.Parsers.TycoFacturaParser">
+			<LineaFactura>
+				<property name="id_deudor" from="0" len="6"/>
+				<property name="id_tipo_comprobante" from="42" len="4"/>
+				<property name="letra" from="61" len="1"/>
+				<property name="emision" from="63" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" from="68" len="8"/>
+				<property name="importe" from="106" len="17"/>
+				<property name="id_moneda" from="125" len="3"/>
+				<property name="fecha_emision" from="54" len="6"/>
+				<property name="fecha_vencimiento" from="129" len="6"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="21" contentType="application/vnd.ms-excel;application/octet-stream" sheetName="SIGMA" parser="Interfaces.Parsers.SigmaFacturaParser">
+			<LineaFactura>
+				<!-- cliente sigma -->
+				<property name="id_deudor" col="1" from="0" len="6"/>
+				<property name="id_tipo_comprobante" default=""/>
+				<property name="letra" col="4" from="4" len="1"/>
+				<property name="emision" col="4" from="0" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" col="4" from="5" len="8"/>
+				<property name="importe" col="9"/>
+				<property name="id_moneda" col="10"/>
+				<property name="fecha_emision" col="7"/>
+				<property name="fecha_vencimiento" col="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="20" contentType="application/vnd.ms-excel;application/octet-stream" sheetName="EMAC" parser="Interfaces.Parsers.SigmaFacturaParser">
+			<LineaFactura>
+				<!-- cliente sigma -->
+				<property name="id_deudor" col="1"/>
+				<property name="id_tipo_comprobante" default=""/>
+				<property name="letra" col="4" from="4" len="1"/>
+				<property name="emision" col="4" from="0" len="4"/>
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" col="4" from="5" len="8"/>
+				<property name="importe" col="9"/>
+				<property name="id_moneda" col="10"/>
+				<property name="fecha_emision" col="7"/>
+				<property name="fecha_vencimiento" col="8"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+		<Cliente id="23" contentType="application/vnd.ms-excel;application/octet-stream" sheetName="Emac" parser="Interfaces.Parsers.DellepianeSanLuisFacturaParser">
+			<LineaFactura>
+				<!-- cliente sigma -->
+				<property name="id_deudor" col="1"/>
+				<property name="id_tipo_comprobante" col="4" />
+				<property name="letra" col="5" />
+				<property name="emision" col="6" />
+				<!--GFSB: aca viene 0001 por ejemplo-->
+				<property name="nro_comprobante" col="7"/>
+				<property name="importe" col="8"/>
+				<property name="id_moneda" default="PE"/>
+				
+				<property name="fecha_emision" col="9"/>
+				<property name="fecha_vencimiento" col="10"/>
+				<property name="observaciones" default=""/>
+			</LineaFactura>
+		</Cliente>
+	</Factura>
+</Configuration>
